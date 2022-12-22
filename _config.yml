@@ -21,30 +21,37 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: ''
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: ''
+description: 'Host site for the 2023 shared task on the lay summarization of biomedical research articles.'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://drive.google.com/uc?export=view&id=1RNAKAll8lK6F67neSdVXUBkrjeHJfk36"
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
 
 # Header nav
+# Header nav
 navigation_header:
 - title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+  url: /#intro
+- title: Important dates
+  url: /#dates
+- title: Tasks
+  url: /#task
+- title: Datasets
+  url: /#data
+- title: Evaluation
+  url: /#eval
+- title: Organizers
+  url: /#us
 
 # Footer nav
 navigation_footer:
 - title: Back to top
-  url: "#top"
+  url: "#intro"
 
 # Collections
 collections:
@@ -55,6 +62,7 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+
 
 # Collection settings
 defaults:
