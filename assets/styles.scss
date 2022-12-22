@@ -27,12 +27,12 @@ $white: #ffffff !default;
 //   cap-height: 0.75
 // ) !default;
 
-// $headingtype: (
-//   font-family: '"Merriweather", serif',
-//   regular: 400,
-//   bold: 700,
-//   cap-height: 0.75
-// ) !default;
+$headingtype: (
+  font-family: '"Merriweather", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
 
 // $monospacetype: (
 //   font-family: "Menlo, monospace",

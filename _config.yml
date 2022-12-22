@@ -64,6 +64,12 @@ collections:
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 
+custom_fonts:
+  preconnect:
+    - https://fonts.gstatic.com
+  urls:
+    - https://fonts.googleapis.com/css2?family=Rosario:wght@400;700&display=swap
+
 # Collection settings
 defaults:
   -
