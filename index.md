@@ -2,8 +2,9 @@
 title: 
 feature_image: "https://media.istockphoto.com/id/1254001828/vector/green-simple-pastel-soft-color-for-background-green-plain-color-for-wallpaper-green-pastel.jpg?s=612x612&w=0&k=20&c=9DlnNxAnSQUhcBUmnMpL4gOVAxC7spbhdd2dOOaW6Zg="
 feature_text: |
-  #### Shared task on the Lay Summarization of Biomedical Research Articles - BioNLP workshop @ ACL 2023
+  ##### Shared task on the Lay Summarization of Biomedical Research Articles
   # BioLaySumm
+  ##### BioNLP workshop @ ACL 2023
 ---
 
 ### Introduction
@@ -30,7 +31,7 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 - **System papers due date:** May 4th, 2023
 - **Notification of acceptance:** June 1st, 2023
 - **Camera-ready system papers due:** June 13th, 2023
-- **Workshop Date:** July 13th or 14th, 2023
+- **BioNLP Workshop Date:** July 13th or 14th, 2023
 
 Join our (Google Group)[https://groups.google.com/g/biolaysumm-shared-task] for updates and discussion on the shared task! If you have any questions, please ask in the (Google Group)[https://groups.google.com/g/biolaysumm-shared-task] or email[c.lin@sheffield.ac.uk] us.
 
