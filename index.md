@@ -32,7 +32,7 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 - **Camera-ready system papers due:** June 13th, 2023
 - **BioNLP Workshop Date:** July 13th or 14th, 2023
 
-Join our [Google Group](https://groups.google.com/g/biolaysumm-shared-task) for updates and discussion on the shared task! If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm-shared-task) or [email](tgoldsack1@sheffield.ac.uk) us.
+Join our [Google Group](https://groups.google.com/g/biolaysumm-shared-task) for updates and discussion on the shared task! If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm-shared-task) or [email](mailto:tgoldsack1@sheffield.ac.uk) us.
 
 ### Registration and Submission
 {: #reg}
