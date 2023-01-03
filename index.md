@@ -2,8 +2,8 @@
 title: 
 feature_image: "https://media.istockphoto.com/id/1254001828/vector/green-simple-pastel-soft-color-for-background-green-plain-color-for-wallpaper-green-pastel.jpg?s=612x612&w=0&k=20&c=9DlnNxAnSQUhcBUmnMpL4gOVAxC7spbhdd2dOOaW6Zg="
 feature_text: |
-  ##### BioNLP Workshop @ ACL 2023 - Shared Task on the Lay Summarization of Biomedical Research Articles
-  # BioLaySumm
+  # BioLaySumm 2023
+  ##### Shared Task on the Lay Summarization of Biomedical Research Articles @ BioNLP Workshop, ACL 2023
 ---
 
 ### Introduction
