@@ -2,9 +2,9 @@
 title: 
 feature_image: "https://media.istockphoto.com/id/1254001828/vector/green-simple-pastel-soft-color-for-background-green-plain-color-for-wallpaper-green-pastel.jpg?s=612x612&w=0&k=20&c=9DlnNxAnSQUhcBUmnMpL4gOVAxC7spbhdd2dOOaW6Zg="
 feature_text: |
-  ### Shared task on the Lay Summarization of Biomedical Research Articles
-  # BioLaySumm 2023
-  #### BioNLP workshop @ ACL 2023
+  #### Shared task on the Lay Summarization of Biomedical Research Articles - BioNLP workshop @ ACL 2023
+  # BioLaySumm
+
 ---
 
 ### Introduction
@@ -28,16 +28,16 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 - **Releasing of training and validation data:** January 9th, 2023
 - **Releasing of test data:** April 6th, 2023
 - **System submission deadline:** April 20th, 2023
-- **System papers due date:** May 4, 2023
-- **Notification of acceptance:** June 1, 2023
-- **Camera-ready system papers due:** June 13, 2023
-- **Workshop Date:** July 13-14, 2023
+- **System papers due date:** May 4th, 2023
+- **Notification of acceptance:** June 1st, 2023
+- **Camera-ready system papers due:** June 13th, 2023
+- **Workshop Date:** July 13th or 14th, 2023
 
 Join our (Google Group)[https://groups.google.com/g/biolaysumm-shared-task] for updates and discussion on the shared task! If you have any questions, please ask in the (Google Group)[https://groups.google.com/g/biolaysumm-shared-task] or email[c.lin@sheffield.ac.uk] us.
 
 ### Registration and Submission
 {: #reg}
-CodaLab pages for each task coming soon. The data and rules for each will be found on these pages.
+CodaLab pages for each task coming soon. The data and rules for each task will be found on these pages.
 
 ### Task Definition
 {: #task}
@@ -47,7 +47,7 @@ Our shared task will consist of two subtasks, focusing on readability-controlled
 #### Task 1: Lay Summarization
 Given an article's abstract and main text as input, the goal is for participants to train a model (or models) to generate the lay summary. Two datasets (derived from PLOS and eLife) are provided for model training and will be used for evaluation. For the final evaluation, submissions will be ranked on the average performance across both datasets.
 
-For this task, submissions can be generated from either 2 separate summarization models (i.e., one for each dataset) or a single unified model (i.e., trained on both datasets). Participants will be required to indicate which approach was taken for each submission.
+For this task, submissions can be generated from either 2 separate summarization models (i.e., one trained on each dataset) or a single unified model (i.e., trained on both datasets). Participants will be required to indicate which approach was taken for each submission.
 
 #### Task 2: Readability-controlled Summarisation
 
