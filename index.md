@@ -4,7 +4,6 @@ feature_image: "https://media.istockphoto.com/id/1254001828/vector/green-simple-
 feature_text: |
   #### Shared task on the Lay Summarization of Biomedical Research Articles - BioNLP workshop @ ACL 2023
   # BioLaySumm
-
 ---
 
 ### Introduction
