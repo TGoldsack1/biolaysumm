@@ -82,7 +82,7 @@ Our evaluation will assess the quality of generated summaries along **3** dimens
 {: #refs}
 
 [1] *Tomas Goldsack, Zhihao Zhang, Chenghua Lin, Carolina Scarton. Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature.
-Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi. arXiv preprint arXiv:2210.09932*
+Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi. arXiv preprint [arXiv:2210.09932](https://arxiv.org/abs/2210.09932)*
 
 [2] *Zheheng Luo, Qianqian Xie, Sophia Ananiadou. Readability Controllable Biomedical Document Summarization.
-Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings), Abu Dhabi. arXiv preprint arXiv:2210.04705*
+Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings), Abu Dhabi. arXiv preprint [arXiv:2210.04705](https://arxiv.org/abs/2210.04705)*
