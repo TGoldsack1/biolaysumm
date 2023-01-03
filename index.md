@@ -44,7 +44,7 @@ CodaLab pages for each task coming soon. The data and rules for each task will b
 Our shared task will consist of two subtasks, focusing on readability-controlled summarization and lay summarization. More details on each subtask is given below:
 
 #### Task 1: Lay Summarization
-Given an article's abstract and main text as input, the goal is for participants to train a model (or models) to generate the lay summary. Two datasets (derived from PLOS and eLife) are provided for model training and will be used for evaluation. For the final evaluation, submissions will be ranked on the average performance across both datasets.
+Given an article's abstract and main text as input, the goal is for participants to train a model (or models) to generate the lay summary. Two separate datasets (derived from biomedical journals, PLOS and eLife) are provided for model training and will be used for evaluation. For the final evaluation, submissions will be ranked on the average performance across both datasets.
 
 For this task, submissions can be generated from either 2 separate summarization models (i.e., one trained on each dataset) or a single unified model (i.e., trained on both datasets). Participants will be required to indicate which approach was taken for each submission.
 
