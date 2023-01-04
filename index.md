@@ -3,7 +3,7 @@ title:
 feature_image: "https://media.istockphoto.com/id/1254001828/vector/green-simple-pastel-soft-color-for-background-green-plain-color-for-wallpaper-green-pastel.jpg?s=612x612&w=0&k=20&c=9DlnNxAnSQUhcBUmnMpL4gOVAxC7spbhdd2dOOaW6Zg="
 feature_text: |
   # BioLaySumm 2023
-  ##### Shared Task on the Lay Summarization of Biomedical Research Articles @ BioNLP Workshop, ACL 2023
+  ##### Shared Task: Lay Summarization of Biomedical Research Articles @ BioNLP Workshop, ACL 2023
 ---
 
 ### Introduction
@@ -11,7 +11,7 @@ feature_text: |
 
 Biomedical publications contain the latest research on prominent health-related topics, ranging from common illnesses to global pandemics. This can often result in their content being of interest to a wide variety of audiences including researchers, medical professionals, journalists, and even members of the public. However, the highly technical and specialist language used within such articles typically make it difficult for non-expert audiences to understand their contents.
 
-Abstractive summarization models can be used to generate a concise summary of an article, capturing its salient point using words and sentences that aren’t used in original text. As such, these models have the potential to help broaden access to highly technical documents when trained to generate summaries that are more readable, containing more background information and less technical terminology.
+Abstractive summarization models can be used to generate a concise summary of an article, capturing its salient point using words and sentences that aren’t used in original text. As such, these models have the potential to help broaden access to highly technical documents when trained to generate summaries that are more readable, containing more background information and less technical terminology (i.e., a "lay summary").
 
 This shared task surrounds the abstractive summarization of biomedical articles, with an emphasis on controllability and catering to non-expert audiences. Through this task, we aim to help foster increased research interest in controllable summarization that helps broaden access to technical texts and progress towards more usable abstractive summarization models in the biomedical domain.
 
@@ -50,7 +50,7 @@ For this task, submissions can be generated from either 2 separate summarization
 
 #### Task 2: Readability-controlled Summarisation
 
-Given an article’s main text as input, the goal is for participants to train a single model to generate both the technical abstract and the lay summary. One dataset (derived from PLOS) are provided for training and will be used for evaluation. For the final evaluation, submissions will be ranked on the average perfomance across both summary types.
+Given an article’s main text as input, the goal is for participants to train a single model to generate both the technical abstract and the lay summary. One dataset (derived from PLOS) is provided for training and will be used for evaluation. For the final evaluation, submissions will be ranked on the average perfomance across both summary types.
 
 ### Datasets
 {: #data}
