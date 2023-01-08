@@ -36,8 +36,9 @@ Join our [Google Group](https://groups.google.com/g/biolaysumm-shared-task) for 
 
 ### Registration and Submission
 {: #reg}
-CodaLab pages for each task coming soon. The data and rules for each task will be found on these pages.
 
+- **Task 1**: [https://codalab.lisn.upsaclay.fr/competitions/9541](https://codalab.lisn.upsaclay.fr/competitions/9541)
+- **Task 2**: [https://codalab.lisn.upsaclay.fr/competitions/9544](https://codalab.lisn.upsaclay.fr/competitions/9544)
 ### Task Definition
 {: #task}
 
