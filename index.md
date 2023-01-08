@@ -1,5 +1,5 @@
 ---
-title: 
+title: BioLaySumm
 feature_image: "https://media.istockphoto.com/id/1254001828/vector/green-simple-pastel-soft-color-for-background-green-plain-color-for-wallpaper-green-pastel.jpg?s=612x612&w=0&k=20&c=9DlnNxAnSQUhcBUmnMpL4gOVAxC7spbhdd2dOOaW6Zg="
 feature_text: |
   # BioLaySumm 2023
@@ -54,11 +54,14 @@ Given an article’s main text as input, the goal is for participants to train a
 
 ### Datasets
 {: #data}
-The data that will be used across both subtasks is derived from articles published by the Public Library of Science (PLOS) [1,2] and eLife [1]. Each dataset consists of biomedical research articles, their technical abstracts, and their expert-written lay summaries. As detailed in the previous section, each form of summary will have a different utility for each subtask. The lay summaries of each dataset also exhibit numerous notable differences in their characteristics - for more details, please refer to [1].
+The data that will be used across both subtasks is derived from articles published by the Public Library of Science (PLOS) [1,2] and eLife [1]. Each dataset consists of biomedical research articles, their technical abstracts, and their expert-written lay summaries. As detailed in the previous section, each form of summary will have a different utility for each subtask. The lay summaries of each dataset also exhibit numerous notable 
+differences in their characteristics - for more details, please refer to [1].
 
-**Note: The test sets used for both subtasks will be blind and therefore different to those published alongside each of the reference papers**  
+PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation (the same for each subtask). eLife contains 4,346 instances for training and 241 for validation. More details on the test data will be provided closer to its release date (see [Important Dates](#dates)).  
 
-All data for each subtask will be provided via their CodaLab page.
+**Note: The test sets used for both subtasks will be blind and therefore different to those published in either of the reference papers.**  
+
+All data for both subtasks is provided via their respective CodaLab pages.
 
 ### Evaluation Metrics
 {: #eval}
