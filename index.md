@@ -28,7 +28,7 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 - **Releasing of test data:** April 6th, 2023
 - **System submission deadline:** April 20th, 2023
 - **System papers due date:** May 4th, 2023
-- **Notification of acceptance:** June 1st, 2023
+- **Notification of acceptance:** May 30th, 2023
 - **Camera-ready system papers due:** June 6th, 2023
 - **BioNLP Workshop Date:** July 13th or 14th, 2023
 
