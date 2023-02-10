@@ -29,7 +29,7 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 - **System submission deadline:** April 20th, 2023
 - **System papers due date:** May 4th, 2023
 - **Notification of acceptance:** June 1st, 2023
-- **Camera-ready system papers due:** June 13th, 2023
+- **Camera-ready system papers due:** June 6th, 2023
 - **BioNLP Workshop Date:** July 13th or 14th, 2023
 
 Join our [Google Group](https://groups.google.com/g/biolaysumm-shared-task) for updates and discussion on the shared task! If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm-shared-task) or [email](mailto:tgoldsack1@sheffield.ac.uk) us.
