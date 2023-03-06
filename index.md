@@ -79,7 +79,7 @@ More details on each how the given metrics will apply to each subtask are given 
 
 **Task 2: Readability-controlled Summarization** - The scores presented for Relevance and Factuality metrics will be the average of those calculated independently for the generated abstracts and lay summaries. For Readability metrics, we will calculate the *absolute difference in scores* obtained for the corresponding abstracts and lay summaries. The aim is to maximize the scores for Relevance and Factuality metrics, and maximize the difference in abstract and lay summary scores for Readability metrics.
 
-We will rank submissions based on each of these evaluation aspects independently. This will be done *after the test phase has ended* by applying min-max normalisation to the scores of each metric, before averaging across metrics within each evaluation aspect. An overall ranking will also be computed, which will be based on the lowest cumulative rank for each individual evaluation aspect.
+We will rank submissions based on each of these evaluation aspects independently. This will be done *after the test phase has ended* by applying min-max normalization to the scores of each metric, before averaging across metrics within each evaluation aspect. An overall ranking will also be computed, which will be based on the lowest cumulative rank for each individual evaluation aspect.
 
 A worked example of the described process for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1Eh2RAmmoUpZp5YAbzn9zPjaR-3IsLzPrW9JD1bpUXKQ/edit?usp=sharing).
 
