@@ -18,7 +18,7 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 
 ### Updates
 {: #news}
-- March 6th, 2023 - More details on the evaluation protocol have been added to the [Evaluation Metrics](#eval) section.
+- **March 6th, 2023** - More details on the evaluation protocol have been added to the [Evaluation](#eval) section.
 
 ### Important Dates
 {: #dates}
