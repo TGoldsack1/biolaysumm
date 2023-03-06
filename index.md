@@ -16,9 +16,9 @@ Abstractive summarization models can be used to generate a concise summary of an
 This shared task surrounds the abstractive summarization of biomedical articles, with an emphasis on controllability and catering to non-expert audiences. Through this task, we aim to help foster increased research interest in controllable summarization that helps broaden access to technical texts and progress toward more usable abstractive summarization models in the biomedical domain.
 
 
-<!-- ### News
+### Updates
 {: #news}
--  -->
+- March 6th, 2023 - More details on the evaluation protocol have been added to the [Evaluation Metrics](#eval) section.
 
 ### Important Dates
 {: #dates}
@@ -49,14 +49,13 @@ Given an article's abstract and main text as input, the goal is for participants
 
 For this task, submissions can be generated from either 2 separate summarization models (i.e., one trained on each dataset) or a single unified model (i.e., trained on both datasets). Participants will be required to indicate which approach was taken for each submission.
 
-#### Task 2: Readability-controlled Summarisation
+#### Task 2: Readability-controlled Summarization
 
 Given an article’s main text as input, the goal is for participants to train a single model to generate both the technical abstract and the lay summary. One dataset (derived from PLOS) is provided for training and will be used for evaluation. For the final evaluation, submissions will be ranked on the average perfomance across both summary types.
 
 ### Datasets
 {: #data}
-The data that will be used across both subtasks is derived from articles published by the Public Library of Science (PLOS) [1,2] and eLife [1]. Each dataset consists of biomedical research articles, their technical abstracts, and their expert-written lay summaries. As detailed in the previous section, each form of summary will have a different utility for each subtask. The lay summaries of each dataset also exhibit numerous notable 
-differences in their characteristics - for more details, please refer to [1].
+The data that will be used across both subtasks is derived from articles published by the Public Library of Science (PLOS) [1,2] and eLife [1]. Each dataset consists of biomedical research articles, their technical abstracts, and their expert-written lay summaries. As detailed in the previous section, each form of summary will have a different utility for each subtask. The lay summaries of each dataset also exhibit numerous notable differences in their characteristics - for more details, please refer to [1].
 
 PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation (the same for each subtask). eLife contains 4,346 instances for training and 241 for validation. More details on the test data will be provided closer to its release date (see [Important Dates](#dates)).  
 
@@ -67,9 +66,23 @@ All data for both subtasks is provided via their respective CodaLab pages.
 ### Evaluation Metrics
 {: #eval}
 
-Our evaluation will assess the quality of generated summaries along **3** dimensions: **(a)** Relevance, **(b)** Readability, and **(c)** Factuality. More information on this coming soon.
+<!-- Our evaluation will assess the quality of generated summaries along **3** dimensions: **(a)** Relevance, **(b)** Readability, and **(c)** Factuality. More information on this coming soon. -->
+For both subtasks, we will evaluate generated summaries across three aspects: Relevance, Readability, and Factuality. Each evaluation aspect will be composed of multiple automatic metrics. These are given below:
 
-<!-- Our evaluation will assess the quality of generated summaries along **3** dimensions: **(a)** Relevance (ROUGE-1,2,L and BERTScore), **(b)** Readability (Flesch-Kincaid Grade Level and Coleman-Liau index), and **(c)** Factuality (SummaC). -->
+- **Relevance** - ROUGE (1, 2, and L) and BERTScore
+- **Readability** - Flesch-Kincaid Grade Level (FKGL) and Dale-Chall Readability Score (DCRS)
+- **Factuality** - FactCC and BARTScore (both fine-tuned on our datasets, as has shown to be effective in recent work [3])
+
+More details on each how the given metrics will apply to each subtask are given below:
+
+**Task 1: Lay Summarization** - The scores presented for each metric will be the average of those calculated independently for the generated lay summaries of PLOS and eLife. The aim is to maximize the scores for Relevance and Factuality metrics and minimize scores for Readability metrics.
+
+**Task 2: Readability-controlled Summarization** - The scores presented for each metric will be the average of those calculated independently for the generated abstracts and lay summaries. Note that for Readability metrics, we will calculate the *absolute difference in scores* obtained for the abstracts and lay summaries of a given article. The aim is to maximize the scores for Relevance and Factuality metrics, and maximize the difference in abstract and lay summary scores for Readability metrics.
+
+We will rank submissions based on each of these evaluation aspects independently.  
+This will be done *after the test phase has ended* by applying min-max normalisation to the scores of each metric, before averaging across metrics within each evaluation aspect. During the test phase, participants will be able to view the metric scores obtained by a submission on the CodaLab leaderboard for each task.  An overall ranking will also be computed, which will be based on the lowest cumulative rank for each individual evaluation aspect.
+
+A worked example of the described process for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1Eh2RAmmoUpZp5YAbzn9zPjaR-3IsLzPrW9JD1bpUXKQ/edit?usp=sharing).
 
 ### Organizers
 {: #us}
@@ -86,7 +99,9 @@ Our evaluation will assess the quality of generated summaries along **3** dimens
 {: #refs}
 
 [1] *Tomas Goldsack, Zhihao Zhang, Chenghua Lin, Carolina Scarton. Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature.
-Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi. arXiv preprint [arXiv:2210.09932](https://arxiv.org/abs/2210.09932)*
+Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi. [url](https://aclanthology.org/2022.emnlp-main.724/)*
 
 [2] *Zheheng Luo, Qianqian Xie, Sophia Ananiadou. Readability Controllable Biomedical Document Summarization.
-Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings), Abu Dhabi. arXiv preprint [arXiv:2210.04705](https://arxiv.org/abs/2210.04705)*
+Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings), Abu Dhabi. [url](https://aclanthology.org/2022.findings-emnlp.343/)*
+
+[3] *Huan Yee Koh, Jiaxin Ju, He Zhang, Ming Liu, Shirui Pan. How Far are We from Robust Long Abstractive Summarization? Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi. [url](https://aclanthology.org/2022.emnlp-main.172/)*
