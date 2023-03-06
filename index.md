@@ -63,7 +63,7 @@ PLOS is the larger of the two datasets, containing 24,773 instances for training
 
 All data for both subtasks is provided via their respective CodaLab pages.
 
-### Evaluation Metrics
+### Evaluation
 {: #eval}
 
 <!-- Our evaluation will assess the quality of generated summaries along **3** dimensions: **(a)** Relevance, **(b)** Readability, and **(c)** Factuality. More information on this coming soon. -->
