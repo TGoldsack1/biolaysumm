@@ -79,6 +79,8 @@ More details on each how the given metrics will apply to each subtask are given 
 
 **Task 2: Readability-controlled Summarization** - The scores presented for each metric will be the average of those calculated independently for the generated abstracts and lay summaries. Note that, for Readability metrics in this subtask, we use the *absolute difference between the scores of every generated summary and target summary pair*. The aim is to maximize the scores for Relevance and Factuality metrics and minimize the *absolute difference scores* calculated for Readability metrics.
 
+**Note: To aid participants in model selection, we plan to release the evaluation scripts for both subtasks (including the fine-tuned FactCC and BARTScore models) prior to the test phase.**
+
 We will rank submissions based on each of these evaluation aspects independently. This will be done *after the test phase has ended* by applying min-max normalization to the scores of each metric, before averaging across metrics within each evaluation aspect. An overall ranking will also be computed, which will be based on the lowest cumulative rank for each individual evaluation aspect.
 
 A worked example of the described process for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1Eh2RAmmoUpZp5YAbzn9zPjaR-3IsLzPrW9JD1bpUXKQ/edit?usp=sharing).
