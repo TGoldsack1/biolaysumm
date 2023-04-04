@@ -90,11 +90,13 @@ A worked example of the described process for both subtasks is provided [here](h
 
 - Chenghua Lin, Deputy Director of Research and Innovation in the Computer Science Department, University of Sheffield.
 - Sophia Ananiadou, Turing Fellow, Director of the National Centre for Text Mining and Deputy Director of the Institute of Data Science and AI at the University of Manchester.
-- Carolina Scarton, Computer Science Department at the University of Sheffield.
-- Qianqian Xie, National Centre for Text Mining (NaCTeM).
+- Carolina Scarton, University of Sheffield.
+- Matthew Shardlow, Manchester Metropolitan University.
+- Paul Thompson, University of Manchester amd The National Centre for Text Mining.
+- Qianqian Xie, National Centre for Text Mining.
 - Tomas Goldsack, University of Sheffield.
-- Zheheng Luo, the University of Manchester.
-- Zhihao Zhang, Beihang University.
+- Zheheng Luo, University of Manchester.
+
 
 ### References
 {: #refs}
