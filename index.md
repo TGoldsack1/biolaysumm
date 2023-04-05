@@ -19,6 +19,8 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 ### Updates
 {: #news}
 - **March 6th, 2023** - More details on the evaluation protocol have been added to the [Evaluation](#eval) section.
+- **April 5th, 2023** - The [evaluation](#eval) protocol has been altered slightly due to reliability issues with the FactCC metric, and the evaluation scripts have now been released for participants on GitHub.
+- **April 5th, 2023** - New competition pages for each subtask have been published, and the [registration](#reg) links have been updated.
 
 ### Important Dates
 {: #dates}
@@ -37,8 +39,11 @@ Join our [Google Group](https://groups.google.com/g/biolaysumm-shared-task) for 
 ### Registration and Submission
 {: #reg}
 
-- **Task 1**: [https://codalab.lisn.upsaclay.fr/competitions/9541](https://codalab.lisn.upsaclay.fr/competitions/9541)
-- **Task 2**: [https://codalab.lisn.upsaclay.fr/competitions/9544](https://codalab.lisn.upsaclay.fr/competitions/9544)
+- **Task 1**: [https://codalab.lisn.upsaclay.fr/competitions/12125](https://codalab.lisn.upsaclay.fr/competitions/12125)
+- **Task 2**: [https://codalab.lisn.upsaclay.fr/competitions/12127](https://codalab.lisn.upsaclay.fr/competitions/12127)
+
+*Note - due to competition editing restrictions in CodaLab, new competitions pages have been created as of 5/05/23 and are now linked above (). The sumission rules have also been added to these new competition pages, please make sure to read these prior to submitting.*
+
 ### Task Definition
 {: #task}
 
@@ -71,7 +76,9 @@ For both subtasks, we will evaluate generated summaries across three aspects: Re
 
 - **Relevance** - ROUGE (1, 2, and L) and BERTScore
 - **Readability** - Flesch-Kincaid Grade Level (FKGL) and Dale-Chall Readability Score (DCRS)
-- **Factuality** - FactCC and BARTScore (both fine-tuned on our datasets, as has shown to be effective in recent work [3])
+- **Factuality** - BARTScore (fine-tuned on our datasets, as has shown to be effective in recent work [3])
+
+*Note - FactCC was previously included as a Factuality metric, but was recently removed due to reliability issues.*
 
 More details on each how the given metrics will apply to each subtask are given below:
 
@@ -79,12 +86,12 @@ More details on each how the given metrics will apply to each subtask are given 
 
 **Task 2: Readability-controlled Summarization** - The scores presented for each metric will be the average of those calculated independently for the generated abstracts and lay summaries. Note that, for Readability metrics in this subtask, we use the *absolute difference between the scores of every generated summary and target summary pair*. The aim is to maximize the scores for Relevance and Factuality metrics and minimize the *absolute difference scores* calculated for Readability metrics.
 
-**Note: To aid participants in model selection, we plan to release the evaluation scripts for both subtasks (including the fine-tuned FactCC and BARTScore models) prior to the test phase.**
-
 We will rank submissions based on each of these evaluation aspects independently. This will be done *after the test phase has ended* by applying min-max normalization to the scores of each metric, before averaging across metrics within each evaluation aspect. An overall ranking will also be computed, which will be based on the lowest cumulative rank for each individual evaluation aspect.
 
 A worked example of the described process for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1Eh2RAmmoUpZp5YAbzn9zPjaR-3IsLzPrW9JD1bpUXKQ/edit?usp=sharing).
 
+
+**To help participants with model selection, the evaluation scripts for both subtasks (configured to run on the validation data) are now available on [GitHub](https://github.com/TGoldsack1/BioLaySumm2023-evaluation_scripts)**
 ### Organizers
 {: #us}
 
