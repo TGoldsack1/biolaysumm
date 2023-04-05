@@ -42,7 +42,7 @@ Join our [Google Group](https://groups.google.com/g/biolaysumm-shared-task) for 
 - **Task 1**: [https://codalab.lisn.upsaclay.fr/competitions/12125](https://codalab.lisn.upsaclay.fr/competitions/12125)
 - **Task 2**: [https://codalab.lisn.upsaclay.fr/competitions/12127](https://codalab.lisn.upsaclay.fr/competitions/12127)
 
-*Note - due to competition editing restrictions in CodaLab, new competitions pages have been created as of 5/05/23 and are now linked above (). The sumission rules have also been added to these new competition pages, please make sure to read these prior to submitting.*
+*Note - due to competition editing restrictions in CodaLab, new competitions pages have been created as of 5/05/23, the links to which are now provided above. The sumission rules have also been added to these new competition pages, please make sure to read these prior to submitting.*
 
 ### Task Definition
 {: #task}
