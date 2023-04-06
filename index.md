@@ -62,9 +62,11 @@ Given an article’s main text as input, the goal is for participants to train a
 {: #data}
 The data that will be used across both subtasks is derived from articles published by the Public Library of Science (PLOS) [1,2] and eLife [1]. Each dataset consists of biomedical research articles, their technical abstracts, and their expert-written lay summaries. As detailed in the previous section, each form of summary will have a different utility for each subtask. The lay summaries of each dataset also exhibit numerous notable differences in their characteristics - for more details, please refer to [1].
 
-PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation (the same for each subtask). eLife contains 4,346 instances for training and 241 for validation. More details on the test data will be provided closer to its release date (see [Important Dates](#dates)).  
+PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation (the same for each subtask). eLife contains 4,346 instances for training and 241 for validation.
 
-**Note: The test sets used for both subtasks will be blind and therefore different to those published in either of the reference papers.**  
+The test data for subtask 1 is composed of 142 PLOS article and 142 eLife articles. The test data for subtask 2 is composed of 142 PLOS articles (however, these are different from the used in subtask 1).
+
+**Note: The test sets used for both subtasks are different to those published in either of the reference papers.**  
 
 All data for both subtasks is provided via their respective CodaLab pages.
 
