@@ -21,6 +21,7 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 - **March 6th, 2023** - More details on the evaluation protocol have been added to the [Evaluation](#eval) section.
 - **April 5th, 2023** - The [evaluation](#eval) protocol has been altered slightly due to reliability issues with the FactCC metric, and the evaluation scripts have now been released for participants on GitHub.
 - **April 5th, 2023** - New competition pages for each subtask have been published, and the [registration](#reg) links have been updated.
+- **April 19th, 2023** - Deadline extended for the evaluation phase. The new deadline is **April 24th, 2023**.
 
 ### Important Dates
 {: #dates}
@@ -28,7 +29,7 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 - **First call for participation:** January 9th, 2023
 - **Releasing of training and validation data:** January 9th, 2023
 - **Releasing of test data:** April 6th, 2023
-- **System submission deadline:** April 20th, 2023
+- **System submission deadline:** ~~April 20th, 2023~~ April 24th, 2023
 - **System papers due date:** May 4th, 2023
 - **Notification of acceptance:** May 30th, 2023
 - **Camera-ready system papers due:** June 6th, 2023
