@@ -102,20 +102,17 @@ A worked example of the described process for both subtasks is provided [here](h
 
 All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP workshop proceedings.
 
-**Submission**
-To submit a system paper, please use the following link:
+**Submission** - To submit a system paper, please use the following link:
 [https://softconf.com/acl2023/BioNLP2023-ST/](https://softconf.com/acl2023/BioNLP2023-ST/)
 
-**Format** 
-System papers should follow the ACL 2023 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the call for papers where templates are also provided.
+**Format** - System papers should follow the ACL 2023 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the call for papers where templates are also provided.
 In the case that a participant has submitted to both subtasks using two distinct modelling approaches, we will allow them 1 additional page of content.
 The paper titles should adopt the following format:
 - <TEAM_NAME> at BioLaySumm Task 1 (systems submitted only to task 1)
 - <TEAM_NAME> at BioLaySumm Task 2 (systems submitted only to task 2)
 - <TEAM_NAME> at BioLaySumm (systems submitted only to both tasks)
 
-**References**
-We ask participants to ensure the following citations are included in their system papers:
+**References** - We ask participants to ensure the following citations are included in their system papers:
 
 The overview paper (use when referring to competition results) - note, this is a temporary example that may be subject to change in the future:
 
@@ -171,9 +168,7 @@ Task data (use both of the following):
     pages = "4667--4680",
 }
 ```
-**Reviewer Nomination**
-
-Similar to other shared task campaigns (e.g. SemEval), we are requiring that at least one author per paper also acts as a reviewer for our shared task papers. Please nominate the reviewer from your submission using this form. If you do not nominate a reviewer, the corresponding author(s) will be automatically selected.
+**Reviewer Nomination** - Similar to other shared task campaigns (e.g. SemEval), we are requiring that at least one author per paper also acts as a reviewer for our shared task papers. Please nominate the reviewer from your submission using this form. If you do not nominate a reviewer, the corresponding author(s) will be automatically selected.
 
 ### Organizers
 {: #us}
