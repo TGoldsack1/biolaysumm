@@ -100,7 +100,7 @@ A worked example of the described process for both subtasks is provided [here](h
 ### System Paper Submission
 {: #sys}
 
-All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP workshop proceedings.
+All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP Workshop proceedings.
 
 **Submission** - To submit a system paper, please use the following link:
 [https://softconf.com/acl2023/BioNLP2023-ST/](https://softconf.com/acl2023/BioNLP2023-ST/)
@@ -114,7 +114,6 @@ The paper titles should adopt the following format:
 - <TEAM_NAME> at BioLaySumm (systems submitted only to both tasks)
 
 **References** - We ask participants to ensure the following citations are included in their system papers:
-
 The overview paper (use when referring to competition results) - note, this is a temporary example that may be subject to change in the future:
 ```
 @inproceedings{biolaysumm-2023-overview,
