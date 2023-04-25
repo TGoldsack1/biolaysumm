@@ -111,7 +111,7 @@ In the case that a participant has submitted to both subtasks using two distinct
 The paper titles should adopt the following format:
 - <TEAM_NAME> at BioLaySumm Task 1 (systems submitted only to task 1)
 - <TEAM_NAME> at BioLaySumm Task 2 (systems submitted only to task 2)
-- <TEAM_NAME> at BioLaySumm (systems submitted only to both tasks)
+- <TEAM_NAME> at BioLaySumm (systems submitted to both tasks)
 
 **References** - We ask participants to ensure the following citations are included in their system papers:
 The overview paper (use when referring to competition results) - note, this is a temporary example that may be subject to change in the future:
