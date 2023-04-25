@@ -22,7 +22,7 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 - **April 5th, 2023** - The [evaluation](#eval) protocol has been altered slightly due to reliability issues with the FactCC metric, and the evaluation scripts have now been released for participants on GitHub.
 - **April 5th, 2023** - New competition pages for each subtask have been published, and the [registration](#reg) links have been updated.
 - **April 19th, 2023** - Deadline extended for the evaluation phase. The new deadline is **April 24th, 2023**.
-
+- **April 25th, 2023** - System [paper submission](#sys) details added to the site.
 ### Important Dates
 {: #dates}
 
@@ -95,6 +95,89 @@ A worked example of the described process for both subtasks is provided [here](h
 
 
 **To help participants with model selection, the evaluation scripts for both subtasks (configured to run on the validation data) are now available on [GitHub](https://github.com/TGoldsack1/BioLaySumm2023-evaluation_scripts)**
+
+
+### System Paper Submission
+{: #sys}
+
+All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP workshop proceedings.
+
+#### Submission
+To submit a system paper, please use the following link:
+[https://softconf.com/acl2023/BioNLP2023-ST/](https://softconf.com/acl2023/BioNLP2023-ST/)
+
+#### Format 
+System papers should follow the ACL 2023 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the call for papers where templates are also provided.
+
+In the case that a participant has submitted to both subtasks using two distinct modelling approaches, we will allow them 1 additional page of content.
+
+The paper titles should adopt the following format:
+
+- <TEAM_NAME> at BioLaySumm Task 1 (systems submitted only to task 1)
+- <TEAM_NAME> at BioLaySumm Task 2 (systems submitted only to task 2)
+- <TEAM_NAME> at BioLaySumm (systems submitted only to both tasks)
+
+#### References
+We ask participants to ensure the following citations are included in their system papers:
+
+The overview paper (use when referring to competition results) - note, this is a temporary example that may be subject to change in the future:
+
+```
+@inproceedings{biolaysumm-2023-overview,
+    title = "Overview of the BioLaySumm 2023 Shared Task on Lay Summarization of Biomedical Research Articles",
+    author = "Goldsack, Tomas and 
+       Luo, Zheheng and 
+       Xie, Qianqian and 
+       Scarton, Carolina and
+       Shardlow, Matthew and 
+       Ananiadou, Sophia and 
+       Lin, Chenghua",
+    booktitle = "Proceedings of the 22st Workshop on Biomedical Language Processing",
+    month = July,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics"
+}
+```
+
+Task data (use both of the following):
+
+```
+@inproceedings{goldsack-etal-2022-making,
+    title = "Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature",
+    author = "Goldsack, Tomas  and
+      Zhang, Zhihao  and
+      Lin, Chenghua  and
+      Scarton, Carolina",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.724",
+    pages = "10589--10604",,
+}
+```
+
+```
+@inproceedings{luo-etal-2022-readability,
+    title = "Readability Controllable Biomedical Document Summarization",
+    author = "Luo, Zheheng  and
+      Xie, Qianqian  and
+      Ananiadou, Sophia",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.343",
+    pages = "4667--4680",
+}
+```
+#### Reviewer Nomination
+
+Similar to other shared task campaigns (e.g. SemEval), we are requiring that at least one author per paper also acts as a reviewer for our shared task papers. Please nominate the reviewer from your submission using this form. If you do not nominate a reviewer, the corresponding author(s) will be automatically selected.
+
 ### Organizers
 {: #us}
 
