@@ -109,9 +109,9 @@ All participating teams are invited to submit system papers that, pending review
 In the case that a participant has submitted to both subtasks using two distinct modelling approaches, we will allow them 1 additional page of content.
 
 The paper titles should adopt the following format:
-- <TEAM_NAME> at BioLaySumm Task 1 (systems submitted only to task 1)
-- <TEAM_NAME> at BioLaySumm Task 2 (systems submitted only to task 2)
-- <TEAM_NAME> at BioLaySumm (systems submitted to both tasks)
+- {TEAM_NAME} at BioLaySumm Task 1 (systems submitted only to task 1)
+- {TEAM_NAME} at BioLaySumm Task 2 (systems submitted only to task 2)
+- {TEAM_NAME} at BioLaySumm (systems submitted to both tasks)
 
 **References** - We ask participants to ensure the following citations are included in their system papers:
 
