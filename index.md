@@ -114,7 +114,8 @@ The paper titles should adopt the following format:
 - <TEAM_NAME> at BioLaySumm (systems submitted to both tasks)
 
 **References** - We ask participants to ensure the following citations are included in their system papers:
-The overview paper (use when referring to competition results) - note, this is a temporary example that may be subject to change in the future:
+
+1. *The overview paper* (use when referring to the shared task in general) - note, this is a temporary example that may be subject to change in the future
 ```
 @inproceedings{biolaysumm-2023-overview,
     title = "Overview of the BioLaySumm 2023 Shared Task on Lay Summarization of Biomedical Research Articles",
@@ -133,7 +134,7 @@ The overview paper (use when referring to competition results) - note, this is a
 }
 ```
 
-Task data (use both of the following):
+2. *Task datasets* (please use both of the following):
 ```
 @inproceedings{goldsack-etal-2022-making,
     title = "Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature",
@@ -150,7 +151,6 @@ Task data (use both of the following):
     pages = "10589--10604",,
 }
 ```
-
 ```
 @inproceedings{luo-etal-2022-readability,
     title = "Readability Controllable Biomedical Document Summarization",
