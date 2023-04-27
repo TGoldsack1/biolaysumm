@@ -112,8 +112,6 @@ The teams with top three ranking submissions for each subtask (overall, and for 
 | **Overall**   | *MDC*      | *Baseline*    | *V-NLP*, *daixiang*  |
 
 ***
-
-***
 **Subtask 2**
 
 | **Criterion** | **1st**                                       | **2nd**     | **3rd**              |
