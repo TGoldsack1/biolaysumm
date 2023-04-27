@@ -101,7 +101,7 @@ A worked example of the described process for both subtasks is provided [here](h
 
 The teams with top three ranking submissions for each subtask (overall, and for each criteria), as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
 
-
+***
 **Subtask 1**
 
 | **Criterion** | **1st**    | **2nd**       | **3rd**              |
@@ -110,8 +110,9 @@ The teams with top three ranking submissions for each subtask (overall, and for 
 | Readability   | *IITR*     | *APTSumm*     | *IKM_Lab*            |
 | Factuality    | *Baseline* | *LHS712EE*    | *MDC*                |
 | **Overall**   | *MDC*      | *Baseline*    | *V-NLP*, *daixiang*  |
+***
 
-
+***
 **Subtask 2**
 
 | **Criterion** | **1st**                                       | **2nd**     | **3rd**              |
@@ -120,7 +121,7 @@ The teams with top three ranking submissions for each subtask (overall, and for 
 | Readability   | *Pathology Dynamics*                          | *NCUEE-NLP* | *LHS712EE*           |
 | Factuality    | *Baseline*                                    | *LHS712EE*  | *Pathology Dynamics* |
 | **Overall**   | *Pathology Dynamics*, *NCUEE-NLP*, *LHS712EE* | -           | -                    |
-
+***
 
 The full table of results for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1HKM-bOu_SG-vlwdhIbl4WJ9baSRqZWiskoH3rT77Oio/edit?usp=sharing), alongside the calculation of rankings.
 
