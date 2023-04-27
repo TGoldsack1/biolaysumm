@@ -104,23 +104,25 @@ The teams with top three ranking submissions for each subtask (overall, and for 
 
 **Subtask 1**
 
-| Criterion   | 1st      | 2nd           | 3rd                  |
-| :---        |  :----:  |     :---:     |        :----:        |
-| Relevance   | LHS712EE | daixiang      | MDC                  |
-| Readability | IITR     | APTSumm       | IKM_Lab              |
-| Factuality  | Baseline | LHS712EE      | MDC                  |
-| Overall     | MDC      | Baseline      | V-NLP, daixiang      |
+| **Criterion** | **1st**    | **2nd**       | **3rd**              |
+| :---          |   :----:   |     :---:     |        :----:        |
+| Relevance     | *LHS712EE* | *daixiang*    | *MDC*                |
+| Readability   | *IITR*     | *APTSumm*     | *IKM_Lab*            |
+| Factuality    | *Baseline* | *LHS712EE*    | *MDC*                |
+| **Overall**   | *MDC*      | *Baseline*    | *V-NLP*, *daixiang*  |
+
 
 **Subtask 2**
 
-| Criterion   | 1st                                     | 2nd       | 3rd                  |
-| :---        |                  :---:                  |   :---:   |        :----:        |
-| Relevance   | NCUEE-NLP                               | LHS712EE  | Pathology Dynamics   |
-| Readability | Pathology Dynamics                      | NCUEE-NLP | LHS712EE             |
-| Factuality  | Baseline                                | LHS712EE  | Pathology Dynamics   |
-| Overall     | Pathology Dynamics, NCUEE-NLP, LHS712EE |           |                      |
+| **Criterion** | **1st**                                       | **2nd**     | **3rd**              |
+| :---          |                     :---:                     |    :---:    |        :----:        |
+| Relevance     | *NCUEE-NLP*                                   | *LHS712EE*  | *Pathology Dynamics* |
+| Readability   | *Pathology Dynamics*                          | *NCUEE-NLP* | *LHS712EE*           |
+| Factuality    | *Baseline*                                    | *LHS712EE*  | *Pathology Dynamics* |
+| **Overall**   | *Pathology Dynamics*, *NCUEE-NLP*, *LHS712EE* | -           | -                    |
 
-The full table of results for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1HKM-bOu_SG-vlwdhIbl4WJ9baSRqZWiskoH3rT77Oio/edit?usp=sharing)
+
+The full table of results for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1HKM-bOu_SG-vlwdhIbl4WJ9baSRqZWiskoH3rT77Oio/edit?usp=sharing), alongside the calculation of rankings.
 
 ### System Paper Submission
 {: #sys}
