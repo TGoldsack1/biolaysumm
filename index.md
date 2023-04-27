@@ -15,7 +15,6 @@ Abstractive summarization models can be used to generate a concise summary of an
 
 This shared task surrounds the abstractive summarization of biomedical articles, with an emphasis on controllability and catering to non-expert audiences. Through this task, we aim to help foster increased research interest in controllable summarization that helps broaden access to technical texts and progress toward more usable abstractive summarization models in the biomedical domain.
 
-
 ### Updates
 {: #news}
 - **March 6th, 2023** - More details on the evaluation protocol have been added to the [Evaluation](#eval) section.
@@ -23,6 +22,7 @@ This shared task surrounds the abstractive summarization of biomedical articles,
 - **April 5th, 2023** - New competition pages for each subtask have been published, and the [registration](#reg) links have been updated.
 - **April 19th, 2023** - Deadline extended for the evaluation phase. The new deadline is **April 24th, 2023**.
 - **April 25th, 2023** - System [paper submission](#sys) details added to the site.
+- **April 26th, 2023** - Competition [results](#res) for both subtasks have been added to the site.
 ### Important Dates
 {: #dates}
 
@@ -96,6 +96,33 @@ A worked example of the described process for both subtasks is provided [here](h
 
 **To help participants with model selection, the evaluation scripts for both subtasks (configured to run on the validation data) are now available on [GitHub](https://github.com/TGoldsack1/BioLaySumm2023-evaluation_scripts)**
 
+### Results
+{: #res}
+
+The teams with top three ranking submissions for each subtask (overall, and for each criteria), as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
+
+
+**Subtask 1**
+|             |            Position                             |
+| Criterion   | 1st      | 2nd           | 3rd                  |
+| :---        |   :---:  |     :---:     |         :---:        |
+| Relevance   | LHS712EE | Marsfield_SDS | MDC                  |
+| Readability | IITR     | APTSumm       | IKM_Lab              |
+| Factuality  | Baseline | LHS712EE      | MDC                  |
+| :---        |   :---:  |     :---:     |         :---:        |
+| Overall     | MDC      | Baseline      | V-NLP, Marsfield_SDS |
+
+**Subtask 2**
+|             |                                          Position                          |
+| Criterion   | 1st                                     | 2nd       | 3rd                  |
+| :---        |                   :---:                 |   :---:   |         :---:        |
+| Relevance   | NCUEE-NLP                               | LHS712EE  | Pathology Dynamics   |
+| Readability | Pathology Dynamics                      | NCUEE-NLP | LHS712EE             |
+| Factuality  | Baseline                                | LHS712EE  | Pathology Dynamics   |
+| :---        |                   :---:                 |   :---:   |         :---:        |
+| Overall     | Pathology Dynamics, NCUEE-NLP, LHS712EE |           |                      |
+
+The full table of results for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1HKM-bOu_SG-vlwdhIbl4WJ9baSRqZWiskoH3rT77Oio/edit?usp=sharing)
 
 ### System Paper Submission
 {: #sys}
@@ -180,7 +207,6 @@ The paper titles should adopt the following format:
 - Qianqian Xie, National Centre for Text Mining.
 - Tomas Goldsack, University of Sheffield.
 - Zheheng Luo, University of Manchester.
-
 
 ### References
 {: #refs}
