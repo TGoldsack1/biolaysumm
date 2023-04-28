@@ -136,10 +136,12 @@ All participating teams are invited to submit system papers that, pending review
 **Format** - System papers should follow the ACL 2023 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the call for papers where templates are also provided.
 In the case that a participant has submitted to both subtasks using two distinct modelling approaches, we will allow them 1 additional page of content.
 
-The paper titles should adopt the following format:
-- {TEAM_NAME} at BioLaySumm Task 1 (systems submitted only to task 1)
-- {TEAM_NAME} at BioLaySumm Task 2 (systems submitted only to task 2)
-- {TEAM_NAME} at BioLaySumm (systems submitted to both tasks)
+The paper titles should start with one of the following prefixes:
+- "{TEAM_NAME} at BioLaySumm Task 1" (systems submitted only to task 1)
+- "{TEAM_NAME} at BioLaySumm Task 2" (systems submitted only to task 2)
+- "{TEAM_NAME} at BioLaySumm" (systems submitted to both tasks)
+
+followed by a desciptive title of the proposed system system.
 
 **References** - We ask participants to ensure the following citations are included in their system papers:
 
