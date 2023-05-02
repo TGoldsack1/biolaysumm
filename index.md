@@ -130,8 +130,9 @@ The full table of results for both subtasks is provided [here](https://docs.goog
 
 All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP Workshop proceedings.
 
-**Submission** - To submit a system paper, please use the following link:
+**Submission** - To submit a system paper, please use the following link before the deadline on 04/05/2023 (23:59:59, Anywhere on Earth timezone):
 [https://softconf.com/acl2023/BioNLP2023-ST/](https://softconf.com/acl2023/BioNLP2023-ST/)
+
 
 **Format** - System papers should follow the ACL 2023 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the call for papers where templates are also provided.
 In the case that a participant has submitted to both subtasks using two distinct modelling approaches, we will allow them 1 additional page of content.
@@ -142,7 +143,6 @@ The paper titles should start with one of the following prefixes:
 - "{TEAM_NAME} at BioLaySumm:" (systems submitted to both tasks)
 
 followed by a desciptive title of the proposed system system. Papers should be submitted in non-anonymised format (i.e., with author names included).
-
 
 
 **References** - We ask participants to ensure the following citations are included in their system papers:
