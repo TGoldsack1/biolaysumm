@@ -199,7 +199,7 @@ followed by a desciptive title of the proposed system system. Papers should be s
 }
 ```
 
-**Reviewer Nomination** - Similar to other shared task campaigns (e.g. SemEval), we are requiring that at least one author per paper also acts as a reviewer for our shared task papers. Please nominate the reviewer from your submission using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdYbA0e4WGeftNylK3ieK0sYongdNAVRf5Jqsqe8BwVAth1TA/viewform). If you do not nominate a reviewer, the corresponding author(s) will be automatically selected.
+**Reviewer Nomination** - Similar to other shared task campaigns (e.g. SemEval), we are requiring that at least one author per paper also acts as a reviewer for our shared task papers. Please nominate the reviewer from your submission using [this form](https://forms.gle/9KjqeoGrn9ZnU7gY7). If you do not nominate a reviewer, the corresponding author(s) will be automatically selected.
 
 ### Organizers
 {: #us}
