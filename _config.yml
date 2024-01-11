@@ -24,29 +24,28 @@ plugins:
 url: ''
 baseurl: ''
 title: ''
-description: 'Host site for the 2023 shared task on the lay summarization of biomedical research articles.'
+description: 'Host site for BioLaySumm - the shared task on the lay summarization of biomedical research articles.'
 permalink: pretty
-logo: "https://drive.google.com/uc?export=view&id=1RNAKAll8lK6F67neSdVXUBkrjeHJfk36"
+# logo: "https://miniodis-rproxy.lisn.upsaclay.fr/coda-v2-prod-public/logos/2024-01-10-1704894122/319acff8a28b/logo.png"
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
 
 # Header nav
-# Header nav
 navigation_header:
 - title: Home
-  url: /#intro
+  url: "#intro"
 - title: Important dates
-  url: /#dates
+  url: "#dates"
 - title: Tasks
-  url: /#task
+  url: "#task"
 - title: Datasets
-  url: /#data
+  url: "#data"
 - title: Evaluation
-  url: /#eval
+  url: "#eval"
 - title: Organizers
-  url: /#us
+  url: "#us"
 
 # Footer nav
 navigation_footer:

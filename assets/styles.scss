@@ -18,14 +18,6 @@ $focusColour: #fa407a !default;
 $captionColour: #a8adac !default;
 $white: #ffffff !default;
 
-// // Typography
-// $bodytype: (
-//   font-family: "Georgia, serif",
-//   regular: 400,
-//   bold: 700,
-//   italic: italic,
-//   cap-height: 0.75
-// ) !default;
 
 $headingtype: (
   font-family: '"Merriweather", serif',
@@ -34,11 +26,6 @@ $headingtype: (
   cap-height: 0.75
 ) !default;
 
-// $monospacetype: (
-//   font-family: "Menlo, monospace",
-//   regular: 400,
-//   cap-height: 0.68
-// ) !default;
 
 
 @import "alembic";
@@ -47,5 +34,25 @@ $headingtype: (
 body {
   font-size: 1rem !important;
 }
+
+// header > .container{
+//   background-color: transparent !important;
+//   position: absolute;
+//   margin-left: 5%;
+//   a {
+//     color: white !important;  
+//   }
+//   a:hover{
+//     color: #05bf85 !important;
+//   }
+// }
+
+// header {
+//   .feature {
+   
+//   }
+  
+// }
+
 
 .container { width: 90%; max-width: 1600px; margin: 0 auto; }
