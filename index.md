@@ -3,7 +3,7 @@ title: BioLaySumm
 # feature_image: "https://media.istockphoto.com/id/1254001828/vector/green-simple-pastel-soft-color-for-background-green-plain-color-for-wallpaper-green-pastel.jpg?s=612x612&w=0&k=20&c=9DlnNxAnSQUhcBUmnMpL4gOVAxC7spbhdd2dOOaW6Zg="
 # feature_image: "https://i.postimg.cc/tTtgwdYq/DALL-E-2024-01-10-12-32-19-Extend-the-background-of-the-image4.jpg"
 # feature_image: "https://i.postimg.cc/bwHwVHMm/image1.webp"
-feature_image: "https://i.postimg.cc/BQJY12Dx/DALL-E-2024-01-10-12-32-19-Extend-the-background-of-the-image4.jpg"
+feature_image: "https://i.postimg.cc/mD23gyKD/DALL-E-2024-01-10-12-32-19-Extend-the-background-of-the-image3.jpg"
 feature_text: |
   # BioLaySumm 2024
   ##### Shared Task: Lay Summarization of Biomedical Research Articles @ BioNLP Workshop, ACL 2024
