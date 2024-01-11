@@ -35,24 +35,37 @@ body {
   font-size: 1rem !important;
 }
 
-// header > .container{
-//   background-color: transparent !important;
-//   position: absolute;
-//   margin-left: 5%;
-//   a {
-//     color: white !important;  
-//   }
-//   a:hover{
-//     color: #05bf85 !important;
-//   }
-// }
+header > .container{
+  // background-color: #242e2b !important;
+  position: absolute;
+  padding-left: 5% !important;
+  // width: auto;
+  a {
+    color: white !important;
+    font-weight: 600;
+  }
+  a:hover{
+    color: #05bf85 !important;
+  }
+}
 
-// header {
-//   .feature {
-   
-//   }
+header {
+  .feature {
+
+    .container {
+      min-height: 30rem;
+
+      h1{
+        color: white !important;
+      }
+
+      h5{
+        color: white !important;
+      } 
+    }
+  }
   
-// }
+}
 
 
 .container { width: 90%; max-width: 1600px; margin: 0 auto; }
