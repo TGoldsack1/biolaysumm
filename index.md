@@ -41,12 +41,14 @@ This is the 2nd iteration of BioLaySumm, following the success of the [1st editi
 - **Camera-ready system papers due:** July 11th, 2023 (23:59:59 AoE)
 - **BioNLP Workshop Date:** August 15th-16th, 2023
 
-Join our [Google Group](https://groups.google.com/g/biolaysumm-shared-task) for updates and discussion on the shared task! If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm-shared-task) or [email](mailto:tgoldsack1@sheffield.ac.uk) us.
+Join our [Google Group](https://groups.google.com/g/biolaysumm2024) for updates and discussion on the shared task! If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm2024) or [email](mailto:tgoldsack1@sheffield.ac.uk) us.
 
 ### Registration and Submission
 {: #reg}
 
-**CodaLab page**: [https://codalab.lisn.upsaclay.fr/competitions/12125](https://codalab.lisn.upsaclay.fr/competitions/12125)
+<!-- **CodaLab page**: [https://codalab.lisn.upsaclay.fr/competitions/12125](https://codalab.lisn.upsaclay.fr/competitions/12125) -->
+**CodaLab page**: *coming soon!*
+
 
 ### Task Definition: Lay Summarization
 {: #task}
