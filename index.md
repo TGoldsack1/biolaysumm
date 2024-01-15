@@ -33,13 +33,13 @@ This is the 2nd iteration of BioLaySumm, following the success of the [1st editi
 ### Important Dates
 {: #dates}
 
-- **First call for participation:** January 15th, 2024
-- **Releasing of training and validation data:** January 15th, 2023
-- **System submission deadline:** May 6th, 2023
-- **System papers due date:** May 20th, 2023
-- **Notification of acceptance:** June 20th, 2023
-- **Camera-ready system papers due:** July 11th, 2023 (23:59:59 AoE)
-- **BioNLP Workshop Date:** August 15th-16th, 2023
+- **First call for participation:** January, 2024
+- **Releasing of training and validation data:** January, 2024
+- **System submission deadline:** May 6th, 2024
+- **System papers due date:** May 20th, 2024
+- **Notification of acceptance:** June 20th, 2024
+- **Camera-ready system papers due:** July 11th, 2024 (23:59:59 AoE)
+- **BioNLP Workshop Date:** August 15th-16th, 2024
 
 Join our [Google Group](https://groups.google.com/g/biolaysumm2024) for updates and discussion on the shared task! If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm2024) or [email](mailto:tgoldsack1@sheffield.ac.uk) us.
 
