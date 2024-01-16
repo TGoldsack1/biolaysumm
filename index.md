@@ -6,9 +6,10 @@ title: BioLaySumm
 feature_image: "https://i.postimg.cc/mD23gyKD/DALL-E-2024-01-10-12-32-19-Extend-the-background-of-the-image3.jpg"
 feature_text: |
   # BioLaySumm 2024
-  ##### Shared Task: Lay Summarization of Biomedical Research Articles @ BioNLP Workshop, ACL 2024
+  ##### Shared Task: Lay Summarization of Biomedical Research Articles 
 ---
 
+  <!-- @ BioNLP Workshop, ACL 2024 -->
 
 ### Introduction
 {: #intro}
