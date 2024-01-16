@@ -14,13 +14,13 @@ feature_text: |
 ### Introduction
 {: #intro}
 
-Biomedical publications contain the latest research on prominent health-related topics, ranging from common illnesses to global pandemics. This can often result in their content being of interest to a wide variety of audiences including researchers, medical professionals, journalists, and even members of the public. However, the highly technical and specialist language used within such articles typically make it difficult for non-expert audiences to understand their contents.
+Biomedical publications contain the latest research on prominent health-related topics, ranging from common illnesses to global pandemics. This can often result in their content being of interest to a wide variety of audiences including researchers, medical professionals, journalists, and even members of the public. However, the highly technical and specialist language used within such articles typically makes it difficult for non-expert audiences to understand their contents.
 
 <!-- Abstractive summarization can be used to generate a concise summary of an article, capturing its salient point using words and sentences that aren’t used in the original text. As such, these models have the potential to help broaden access to highly technical documents when trained to generate summaries that are more readable, containing more background information and less technical terminology (i.e., a "lay summary"). -->
 
-The BioLaySumm shared task surrounds the abstractive summarization of biomedical articles, with an emphasis on catering to non-expert audiences through the generation of summaries that are more readable, containing more background information less technical terminology (i.e., a "lay summary").
+The BioLaySumm shared task surrounds the abstractive summarization of biomedical articles, with an emphasis on catering to non-expert audiences through the generation of summaries that are more readable, containing more background information and less technical terminology (i.e., a "lay summary").
 
-This is the 2nd iteration of BioLaySumm, following the success of the [1st edition](/2023) of the task at BioNLP 2023 [1] which attracted 56 submission accross 20 different teams. In this edition, we aim to build on last year's task by introducing a new test set, updating our evaluation protocol, and encouraging participants to explore novel approaches that will help to further advance the state-of-the-art for Lay Summarization. For inspiration, we provide some indeas of promising research directions [below](#prom).
+This is the 2nd iteration of BioLaySumm, following the success of the [1st edition](/2023) of the task at BioNLP 2023 [1] which attracted 56 submissions across 20 different teams. In this edition, we aim to build on last year's task by introducing a new test set, updating our evaluation protocol, and encouraging participants to explore novel approaches that will help to further advance the state-of-the-art for Lay Summarization. For inspiration, we provide some indeas of promising research directions [below](#prom).
 
 <!-- ### Updates
 {: #news}
