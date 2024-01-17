@@ -6,10 +6,9 @@ title: BioLaySumm
 feature_image: "https://i.postimg.cc/mD23gyKD/DALL-E-2024-01-10-12-32-19-Extend-the-background-of-the-image3.jpg"
 feature_text: |
   # BioLaySumm 2024
-  ##### Shared Task: Lay Summarization of Biomedical Research Articles 
+  ##### Shared Task: Lay Summarization of Biomedical Research Articles @ BioNLP Workshop, 
+  ACL 2024 
 ---
-
-  <!-- @ BioNLP Workshop, ACL 2024 -->
 
 ### Introduction
 {: #intro}
@@ -20,7 +19,8 @@ Biomedical publications contain the latest research on prominent health-related 
 
 The BioLaySumm shared task surrounds the abstractive summarization of biomedical articles, with an emphasis on catering to non-expert audiences through the generation of summaries that are more readable, containing more background information and less technical terminology (i.e., a "lay summary").
 
-This is the 2nd iteration of BioLaySumm, following the success of the [1st edition](/2023) of the task at BioNLP 2023 [1] which attracted 56 submissions across 20 different teams. In this edition, we aim to build on last year's task by introducing a new test set, updating our evaluation protocol, and encouraging participants to explore novel approaches that will help to further advance the state-of-the-art for Lay Summarization. For inspiration, we provide some indeas of promising research directions [below](#prom).
+This is the 2nd iteration of BioLaySumm, following the success of the [1st edition](/2023) of the task at BioNLP 2023 [1] which attracted 56 submissions across 20 different teams. In this edition, which is to be hosted by the [BioNLP workshop](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2024, we aim to build on last year's task by introducing a new test set, updating our evaluation protocol, and encouraging participants to explore novel approaches that will help to further advance the state-of-the-art for Lay Summarization.  Accordingly, we will not only be offering a prize of £100 to the team with the top-ranking submission, but we will also offer a second prize of £50 to the team that propose the most innovative approach (as decided upon by the task organisers).
+For inspiration, we provide some ideas of promising research directions [below](#prom).
 
 <!-- ### Updates
 {: #news}
@@ -40,7 +40,7 @@ This is the 2nd iteration of BioLaySumm, following the success of the [1st editi
 - **System papers due date:** May 20th, 2024
 - **Notification of acceptance:** June 17th, 2024
 - **Camera-ready system papers due:** July 1st, 2024 (23:59:59 AoE)
-<!-- - **BioNLP Workshop Date:** August 15th-16th, 2024 -->
+- **BioNLP Workshop Date:** August 16th, 2024
 
 Join our [Google Group](https://groups.google.com/g/biolaysumm2024) for updates and discussion on the shared task! If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm2024) or [email](mailto:tgoldsack1@sheffield.ac.uk) us.
 
