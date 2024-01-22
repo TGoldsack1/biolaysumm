@@ -208,7 +208,6 @@ followed by a desciptive title of the proposed system system. Papers should be s
 - Tomas Goldsack, University of Sheffield.
 - Matthew Shardlow, Manchester Metropolitan University.
 - Carolina Scarton, University of Sheffield.
-- Sophia Ananiadou, Turing Fellow, Director of the National Centre for Text Mining and Deputy Director of the Institute of Data Science and AI at the University of Manchester.
 - Chenghua Lin, University of Manchester.
 
 
