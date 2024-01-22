@@ -33,8 +33,8 @@ For inspiration, we provide some ideas of promising research directions [below](
 ### Important Dates
 {: #dates}
 
-- **First call for participation:** January, 2024
-- **Releasing of training and validation data:** January, 2024
+- **First call for participation:** 22nd January, 2024
+- **Releasing of training and validation data:** 22nd January, 2024
 - **System submission deadline:** May 6th, 2024
 - **System papers due date:** May 20th, 2024
 - **Notification of acceptance:** June 17th, 2024
