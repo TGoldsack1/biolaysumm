@@ -38,8 +38,10 @@ For inspiration, we provide some ideas of promising research directions [below](
 - **System submission deadline:** May 6th, 2024
 - **System papers due date:** May 20th, 2024
 - **Notification of acceptance:** June 17th, 2024
-- **Camera-ready system papers due:** July 1st, 2024 (23:59:59 AoE)
+- **Camera-ready system papers due:** July 1st, 2024
 - **BioNLP Workshop Date:** August 16th, 2024
+
+Note that all deadlines are 23:59:59 AoE (UTC-12).
 
 Join our [Google Group](https://groups.google.com/g/biolaysumm2024) for updates and discussion on the shared task! If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm2024) or [email](mailto:tgoldsack1@sheffield.ac.uk) us.
 
