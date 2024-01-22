@@ -216,7 +216,7 @@ followed by a desciptive title of the proposed system system. Papers should be s
 ### References
 {: #refs}
 
-[1] Tomas Goldsack, Zheheng Luo, Qianqian Xie, Carolina Scarton, Sophia Ananiadou, Chenghua Lin. 2023. [Overview of the BioLaySumm 2023 Shared Task on Lay Summarization of Biomedical Research Articles.]((https://aclanthology.org/2023.bionlp-1.44))
+[1] Tomas Goldsack, Zheheng Luo, Qianqian Xie, Carolina Scarton, Sophia Ananiadou, Chenghua Lin. 2023. [Overview of the BioLaySumm 2023 Shared Task on Lay Summarization of Biomedical Research Articles.](https://aclanthology.org/2023.bionlp-1.44)
 In The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks, pages 468–477, Toronto, Canada. Association for Computational Linguistics.
 
 [2] Tomas Goldsack, Zhihao Zhang, Chenghua Lin, Carolina Scarton. 2022. [Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature.](https://aclanthology.org/2022.emnlp-main.724/)
