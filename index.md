@@ -46,8 +46,8 @@ Join our [Google Group](https://groups.google.com/g/biolaysumm2024) for updates 
 ### Registration and Submission
 {: #reg}
 
-<!-- **CodaLab page**: [https://codalab.lisn.upsaclay.fr/competitions/12125](https://codalab.lisn.upsaclay.fr/competitions/12125) -->
-**CodaLab page**: *coming soon!*
+<!-- **CodaBench page**: [https://CodaBench.lisn.upsaclay.fr/competitions/12125](https://CodaBench.lisn.upsaclay.fr/competitions/12125) -->
+**CodaBench page**: [https://www.codabench.org/competitions/1920/](https://www.codabench.org/competitions/1920/)
 
 
 ### Task Definition: Lay Summarization
@@ -61,11 +61,11 @@ Note that submissions can be generated from either 2 separate summarization mode
 {: #data}
 The data that will be used for the task is based on the PLOS and eLife datasets, published in [2]. Each dataset consists of biomedical research articles ( including their technical abstracts) and their expert-written lay summaries. The lay summaries of each dataset also exhibit numerous notable differences in their characteristics - for more details, please refer to [2].
 
-PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation. eLife contains 4,346 instances for training and 241 for validation. These splits are identical to those used in [2].
+PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation. eLife contains 4,346 instances for training and 241 for validation.
 
 The test data is composed of 142 PLOS article and 142 eLife articles. **Note: These test splits are different to those published in [2] and used for the 1st edition of BioLaySumm [1].**  
 
-All data is provided via the competition CodaLab page.
+All task data is provided via the competition CodaBench page under the "Files" tab.
 
 ### Evaluation
 {: #eval}
@@ -81,14 +81,14 @@ The scores presented for each metric will be the average of those calculated ind
 
 We will rank submissions based on each of these evaluation aspects independently. This will be done *after the test phase has ended* by applying min-max normalization to the scores of each metric, before averaging across metrics within each evaluation aspect. A ranking for each evaluation aspect will be computed as well as an overall ranking, which will be based on the best average score across all three aspects.
 
-In the near future, we will update this section to provide a link to a worked example of the described ranking process.
+We will update this section to provide a link to a worked example of the described ranking process in the near future.
 
 ### Promising Research Directions
 {: #prom}
 
 - **Retrieval-Augmented Generation (RAG)** - Recent work has shown that the incorperation of external knowledge derived from graphs can help to improve the quality of generated summaries [3]. The automatic identification and retrieval of relevant textual knowledge is likely to provide similar benefits, and we encourage participants to explore this direction.
 
-- **Controllable Lay Summarisation** - The lay summaries of PLOS and eLife exhibit numerous notable differences in their characteristics, including their length, readability, and abstractivness [2]. We encourage participants to explore the use of controllable generation techniques to produce summaries that are tailored to the characteristics of each dataset and enable models to cater to the needs of different audiences.
+- **Controllable Lay Summarisation** - The lay summaries of PLOS and eLife exhibit numerous notable differences in their characteristics, including their length, readability, and abstractivness [2]. We encourage participants to explore the use of controllable generation techniques to produce summaries that are tailored to the characteristics of each dataset and enable models to cater to the needs of different audiences (e.g., [6]).
 
 - **LLMs for Data Augmentation** - In the first edition of BioLaySumm [1], we found that the use of large language models (LLMs) proved benefitial for summary generation [4], but also for data augmentation [5]. We encourage participants to explore this direction further, and to consider potential new ways to use use LLMs for both summary generation and data augmentation.
 
@@ -209,13 +209,13 @@ followed by a desciptive title of the proposed system system. Papers should be s
 - Matthew Shardlow, Manchester Metropolitan University.
 - Carolina Scarton, University of Sheffield.
 - Sophia Ananiadou, Turing Fellow, Director of the National Centre for Text Mining and Deputy Director of the Institute of Data Science and AI at the University of Manchester.
-- Chenghua Lin, Deputy Director of Research and Innovation in the Computer Science Department, University of Sheffield.
+- Chenghua Lin, University of Manchester.
 
 
 ### References
 {: #refs}
 
-[1] Tomas Goldsack, Zheheng Luo, Qianqian Xie, Carolina Scarton, Chenghua Lin. 2023. [Overview of the BioLaySumm 2023 Shared Task on Lay Summarization of Biomedical Research Articles.]((https://aclanthology.org/2023.bionlp-1.44))
+[1] Tomas Goldsack, Zheheng Luo, Qianqian Xie, Carolina Scarton, Sophia Ananiadou, Chenghua Lin. 2023. [Overview of the BioLaySumm 2023 Shared Task on Lay Summarization of Biomedical Research Articles.]((https://aclanthology.org/2023.bionlp-1.44))
 In The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks, pages 468–477, Toronto, Canada. Association for Computational Linguistics.
 
 [2] Tomas Goldsack, Zhihao Zhang, Chenghua Lin, Carolina Scarton. 2022. [Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature.](https://aclanthology.org/2022.emnlp-main.724/)
@@ -227,3 +227,5 @@ In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language 
 [4] Oisín Turbitt, Robert Bevan, and Mouhamad Aboshokor. 2023. [MDC at BioLaySumm Task 1: Evaluating GPT Models for Biomedical Lay Summarization.](https://aclanthology.org/2023.bionlp-1.65/) In *The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks, pages 611–619, Toronto, Canada. Association for Computational Linguistics.*
 
 [5] Mong Yuan Sim, Xiang Dai, Maciej Rybinski, and Sarvnaz Karimi. 2023. [CSIRO Data61 Team at BioLaySumm Task 1: Lay Summarisation of Biomedical Research Articles Using Generative Models.](https://aclanthology.org/2023.bionlp-1.68/) In *The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks, pages 629–635, Toronto, Canada. Association for Computational Linguistics.*
+
+[6] Zheheng Luo, Qianqian Xie, and Sophia Ananiadou. 2022. [Readability Controllable Biomedical Document Summarization.](https://aclanthology.org/2022.findings-emnlp.343/) In *Findings of the Association for Computational Linguistics: EMNLP 2022, pages 4667–4680, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.*
