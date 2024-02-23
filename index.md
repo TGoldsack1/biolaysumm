@@ -21,14 +21,10 @@ The BioLaySumm shared task surrounds the abstractive summarization of biomedical
 This is the 2nd iteration of BioLaySumm, following the success of the [1st edition](/2023) of the task at BioNLP 2023 [1] which attracted 56 submissions across 20 different teams. In this edition, which is to be hosted by the [BioNLP workshop](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2024, we aim to build on last year's task by introducing a new test set, updating our evaluation protocol, and encouraging participants to explore novel approaches that will help to further advance the state-of-the-art for Lay Summarization.  Accordingly, we will not only be offering a prize of £100 to the team with the top-ranking submission, but we will also offer a second prize of £50 to the team that propose the most innovative approach (as decided upon by the task organisers).
 For inspiration, we provide some ideas of promising research directions [below](#prom).
 
-<!-- ### Updates
+### Updates
 {: #news}
-- **March 6th, 2023** - More details on the evaluation protocol have been added to the [Evaluation](#eval) section.
-- **April 5th, 2023** - The [evaluation](#eval) protocol has been altered slightly due to reliability issues with the FactCC metric, and the evaluation scripts have now been released for participants on GitHub.
-- **April 5th, 2023** - New competition pages for each subtask have been published, and the [registration](#reg) links have been updated.
-- **April 19th, 2023** - Deadline extended for the evaluation phase. The new deadline is **April 24th, 2023**.
-- **April 25th, 2023** - System [paper submission](#sys) details added to the site.
-- **April 27th, 2023** - Competition [results](#res) for both subtasks have been added to the site. -->
+- **February 23rd, 2024** - The evaluation scripts have now been released for participants on GitHub ([link](https://github.com/TGoldsack1/BioLaySumm2024-evaluation_scripts)).
+
 
 ### Important Dates
 {: #dates}
@@ -82,6 +78,8 @@ For both subtasks, we will evaluate generated summaries across three aspects: Re
 The scores presented for each metric will be the average of those calculated independently for the generated lay summaries of PLOS and eLife. The aim is to maximize the scores for Relevance metrics, Factuality metrics, and the LENS (Readability) metric and minimize scores for all other Readability metrics.
 
 We will rank submissions based on each of these evaluation aspects independently. This will be done *after the test phase has ended* by applying min-max normalization to the scores of each metric, before averaging across metrics within each evaluation aspect. A ranking for each evaluation aspect will be computed as well as an overall ranking, which will be based on the best average score across all three aspects.
+
+The evaluation scripts (configured for use on the validation splot) can be found (here)[https://github.com/TGoldsack1/BioLaySumm2024-evaluation_scripts].
 
 We will update this section to provide a link to a worked example of the described ranking process in the near future.
 
