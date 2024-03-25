@@ -80,7 +80,7 @@ The scores presented for each metric will be the average of those calculated ind
 
 We will rank submissions based on each of these evaluation aspects independently. This will be done *after the test phase has ended* by applying min-max normalization to the scores of each metric, before averaging across metrics within each evaluation aspect. A ranking for each evaluation aspect will be computed as well as an overall ranking, which will be based on the best average score across all three aspects.
 
-The evaluation scripts (configured for use on the validation splot) can be found (here)[https://github.com/TGoldsack1/BioLaySumm2024-evaluation_scripts].
+The evaluation scripts (configured for use on the validation splot) can be found [here](https://github.com/TGoldsack1/BioLaySumm2024-evaluation_scripts).
 
 A worked example of the described process is provided [here](https://docs.google.com/spreadsheets/d/1hQB_w16lfIGeggkCwIbdBH9jyLhDnK-R31ZWT0iCkVE/edit?usp=sharing).
 
