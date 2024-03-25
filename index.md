@@ -81,7 +81,7 @@ We will rank submissions based on each of these evaluation aspects independently
 
 The evaluation scripts (configured for use on the validation splot) can be found (here)[https://github.com/TGoldsack1/BioLaySumm2024-evaluation_scripts].
 
-We will update this section to provide a link to a worked example of the described ranking process in the near future.
+A worked example of the described process is provided [here](https://docs.google.com/spreadsheets/d/1hQB_w16lfIGeggkCwIbdBH9jyLhDnK-R31ZWT0iCkVE/edit?usp=sharing).
 
 ### Promising Research Directions
 {: #prom}
