@@ -24,6 +24,7 @@ For inspiration, we provide some ideas of promising research directions [below](
 ### Updates
 {: #news}
 - **February 23rd, 2024** - The evaluation scripts have now been released for participants on GitHub ([link](https://github.com/TGoldsack1/BioLaySumm2024-evaluation_scripts)).
+- **March 25th, 2024** - A worked example of the evaluation protocol has been provided [here](https://docs.google.com/spreadsheets/d/1hQB_w16lfIGeggkCwIbdBH9jyLhDnK-R31ZWT0iCkVE/edit?usp=sharing).
 
 
 ### Important Dates
