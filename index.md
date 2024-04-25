@@ -25,6 +25,7 @@ For inspiration, we provide some ideas of promising research directions [below](
 {: #news}
 - **February 23rd, 2024** - The evaluation scripts have now been released for participants on GitHub ([link](https://github.com/TGoldsack1/BioLaySumm2024-evaluation_scripts)).
 - **March 25th, 2024** - A worked example of the evaluation protocol has been provided [here](https://docs.google.com/spreadsheets/d/1hQB_w16lfIGeggkCwIbdBH9jyLhDnK-R31ZWT0iCkVE/edit?usp=sharing).
+- **April 25th, 2024** - Details of the system paper submission process have been added [below](#sys).
 
 
 ### Important Dates
@@ -126,45 +127,60 @@ The teams with top three ranking submissions for each subtask (overall, and for 
 ***
 
 The full table of results for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1HKM-bOu_SG-vlwdhIbl4WJ9baSRqZWiskoH3rT77Oio/edit?usp=sharing), alongside the calculation of rankings. -->
-<!-- 
+
+
 ### System Paper Submission
 {: #sys}
 
 All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP Workshop proceedings.
 
-**Submission** - To submit a system paper, please use the following link before the deadline on 04/05/2023 (23:59:59, Anywhere on Earth timezone):
-[https://softconf.com/acl2023/BioNLP2023-ST/](https://softconf.com/acl2023/BioNLP2023-ST/)
+**Submission** - Pariticpants can submit a system paper at following SoftConf link (track "ST_2"), anytime before the deadline on 20/05/2024 (23:59:59, Anywhere on Earth timezone):
+[https://softconf.com/acl2024/BioNLP2024-ST/](https://softconf.com/acl2024/BioNLP2024-ST/)
 
 
-**Format** - System papers should follow the ACL 2023 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the call for papers where templates are also provided.
+**Format** - System papers should follow the ACL 2024 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the call for papers where templates are also provided.
 In the case that a participant has submitted to both subtasks using two distinct modelling approaches, we will allow them 1 additional page of content.
 
-The paper titles should start with one of the following prefixes:
-- "{TEAM_NAME} at BioLaySumm Task 1:" (systems submitted only to task 1)
-- "{TEAM_NAME} at BioLaySumm Task 2:" (systems submitted only to task 2)
-- "{TEAM_NAME} at BioLaySumm:" (systems submitted to both tasks)
-
-followed by a desciptive title of the proposed system system. Papers should be submitted in non-anonymised format (i.e., with author names included). -->
+Paper titles should adopt the format: "{TEAM_NAME} at BioLaySumm:" followed by a desciptive title of the proposed system system. Papers should be submitted in non-anonymised format (i.e., with author names included).
 
 
-<!-- **References** - We ask participants to ensure the following citations are included in their system papers:
+**References** - We ask participants to ensure the following citations are included in their system papers:
 
-1. *The overview paper* (use when referring to the shared task in general) - note, this is a temporary example that may be subject to change in the future
+1. *BioLaySumm 2024 Overview Paper* (to be used when referring to the shared task in general) - note, this is a temporary example that may be subject to change in the future:
 ```
-@inproceedings{biolaysumm-2023-overview,
+@inproceedings{goldsack-etal-2024-biolaysumm,
+    title = "Overview of the BioLaySumm 2024 Shared Task on the Lay Summarization of Biomedical Research Articles",
+    author = "Goldsack, Tomas  and
+      Scarton, Carolina  and
+      Shardlow, Matthew  and
+      Lin, Chenghua",
+    booktitle = "The 23rd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+}
+```
+
+*BioLaySumm 2023 Overview Paper* - participants may also want to include last year's overview paper when referring to the shared task:
+```
+@inproceedings{goldsack-etal-2023-biolaysumm,
     title = "Overview of the BioLaySumm 2023 Shared Task on Lay Summarization of Biomedical Research Articles",
-    author = "Goldsack, Tomas and 
-       Luo, Zheheng and 
-       Xie, Qianqian and 
-       Scarton, Carolina and
-       Shardlow, Matthew and 
-       Ananiadou, Sophia and 
-       Lin, Chenghua",
-    booktitle = "Proceedings of the 22st Workshop on Biomedical Language Processing",
-    month = July,
+    author = "Goldsack, Tomas  and
+      Luo, Zheheng  and
+      Xie, Qianqian  and
+      Scarton, Carolina  and
+      Shardlow, Matthew  and
+      Ananiadou, Sophia  and
+      Lin, Chenghua",
+    booktitle = "The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks",
+    month = jul,
     year = "2023",
     address = "Toronto, Canada",
-    publisher = "Association for Computational Linguistics"
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.bionlp-1.44",
+    doi = "10.18653/v1/2023.bionlp-1.44",
+    pages = "468--477",
 }
 ```
 
@@ -199,9 +215,9 @@ followed by a desciptive title of the proposed system system. Papers should be s
     url = "https://aclanthology.org/2022.findings-emnlp.343",
     pages = "4667--4680",
 }
-``` -->
+``` 
 
-<!-- **Reviewer Nomination** - Similar to other shared task campaigns (e.g. SemEval), we are requiring that at least one author per paper also acts as a reviewer for our shared task papers. Please nominate the reviewer from your submission using [this form](https://forms.gle/9KjqeoGrn9ZnU7gY7). If you do not nominate a reviewer, the corresponding author(s) will be automatically selected. -->
+**Reviewer Nomination** - Similar to other shared task campaigns (e.g. SemEval), we are requiring that at least one author per paper also acts as a reviewer for our shared task papers. Please nominate the reviewer from your submission using [this form](https://forms.gle/nbwTKeaVZvVSC9MU8). If you do not nominate a reviewer, the corresponding author(s) will be automatically selected.
 
 ### Organizers
 {: #us}
