@@ -144,7 +144,7 @@ Paper titles should adopt the format: "{TEAM_NAME} at BioLaySumm:" followed by a
 
 **References** - We ask participants to ensure the following citations are included in their system papers:
 
-1. *BioLaySumm 2024 Overview Paper* - the following citation should be used when referring to the shared task in general (note, this is a temporary example that may be subject to change in the future):
+- *BioLaySumm 2024 Overview Paper* - the following citation should be used when referring to the shared task in general (note, this is a temporary example that may be subject to change in the future):
 ```
 @inproceedings{goldsack-etal-2024-biolaysumm,
     title = "Overview of the BioLaySumm 2024 Shared Task on the Lay Summarization of Biomedical Research Articles",
@@ -182,7 +182,7 @@ Participants may also want to include last year's overview paper when referring 
 }
 ```
 
-2. *Task datasets* - the following citation should be used when referring to the task datasets:
+- *Task datasets* - the following citation should be used when referring to the task datasets:
 ```
 @inproceedings{goldsack-etal-2022-making,
     title = "Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature",
