@@ -134,11 +134,11 @@ The full table of results for both subtasks is provided [here](https://docs.goog
 
 All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP Workshop proceedings.
 
-**Submission** - Pariticpants can submit a system paper at following SoftConf link (track "ST_2"), anytime before the deadline on 20/05/2024 (23:59:59, Anywhere on Earth timezone):
+**Submission** - Participants can submit a system paper at following SoftConf link (track "ST_2") anytime before the deadline on 20/05/2024 (23:59:59, Anywhere on Earth timezone):
 [https://softconf.com/acl2024/BioNLP2024-ST/](https://softconf.com/acl2024/BioNLP2024-ST/)
 
 
-**Format** - System papers should follow the ACL 2024 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the call for papers where templates are also provided.
+**Format** - System papers should follow the ACL 2024 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the [call for papers](https://2024.aclweb.org/calls/main_conference_papers/#paper-submission-details). The Overleaf template for this can be found [here](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)
 In the case that a participant has submitted to both subtasks using two distinct modelling approaches, we will allow them 1 additional page of content.
 
 Paper titles should adopt the format: "{TEAM_NAME} at BioLaySumm:" followed by a desciptive title of the proposed system system. Papers should be submitted in non-anonymised format (i.e., with author names included).
