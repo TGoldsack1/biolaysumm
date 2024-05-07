@@ -108,6 +108,7 @@ The teams with top three ranking submissions (overall, and for each criteria), a
 | Readability   | YXZ (*yecheng*)          | NLPSucks (*aryan16*)             | jimmyapples (*etherinmatic*)     |
 | Factuality    | eulerian (*eulerian123*) | MKGS(*kartiknlp*)                | sanika (*sanika*)                | 
 | **Overall**   | UIUC_BioNLP (*shruthan*) | Ctyun AI (*mandy*)               | *Saama Technologies* (*hwanmun*) |
+
 ***
 
 
