@@ -97,6 +97,7 @@ A worked example of the described process is provided [here](https://docs.google
 
 
 ### Results
+{: #res}
 
 The teams with top three ranking submissions (overall, and for each criteria), as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
 
