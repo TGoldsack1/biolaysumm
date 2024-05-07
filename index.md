@@ -26,6 +26,7 @@ For inspiration, we provide some ideas of promising research directions [below](
 - **February 23rd, 2024** - The evaluation scripts have now been released for participants on GitHub ([link](https://github.com/TGoldsack1/BioLaySumm2024-evaluation_scripts)).
 - **March 25th, 2024** - A worked example of the evaluation protocol has been provided [here](https://docs.google.com/spreadsheets/d/1hQB_w16lfIGeggkCwIbdBH9jyLhDnK-R31ZWT0iCkVE/edit?usp=sharing).
 - **April 25th, 2024** - Details of the system paper submission process have been added [below](#sys).
+- **May 7th, 2024** - The system submission deadline has now passed and the final competition [results](#res) have been calculated and added to the site.
 
 
 ### Important Dates
@@ -95,38 +96,18 @@ A worked example of the described process is provided [here](https://docs.google
 - **LLMs for Data Augmentation** - In the first edition of BioLaySumm [1], we found that the use of large language models (LLMs) proved benefitial for summary generation [4], but also for data augmentation [5]. We encourage participants to explore this direction further, and to consider potential new ways to use use LLMs for both summary generation and data augmentation.
 
 
-<!-- for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1Eh2RAmmoUpZp5YAbzn9zPjaR-3IsLzPrW9JD1bpUXKQ/edit?usp=sharing). -->
+### Results
 
-<!-- **To help participants with model selection, the evaluation scripts for both subtasks (configured to run on the validation data) are now available on [GitHub](https://github.com/TGoldsack1/BioLaySumm2023-evaluation_scripts)** -->
+The teams with top three ranking submissions (overall, and for each criteria), as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
 
-<!-- ### Results
-{: #res}
+| **Criterion** | **1st**                  | **2nd**                          | **3rd**                          |
+| :---          |           :----:         |                :---:             |              :----:              |
+| Relevance     | UIUC_BioNLP (*shruthan*) | *Saama Technologies* (*hwanmun*) | Ctyun AI (*mandy*)               |
+| Readability   | YXZ (*yecheng*)          | NLPSucks (*aryan16*)             | jimmyapples (*etherinmatic*)     |
+| Factuality    | eulerian (*eulerian123*) | MKGS(*kartiknlp*)                | sanika (*sanika*)                | 
+| **Overall**   | UIUC_BioNLP (*shruthan*) | Ctyun AI (*mandy*)               | *Saama Technologies* (*hwanmun*) |
 
-The teams with top three ranking submissions for each subtask (overall, and for each criteria), as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
-
-***
-**Subtask 1**
-
-| **Criterion** | **1st**    | **2nd**       | **3rd**              |
-| :---          |   :----:   |     :---:     |        :----:        |
-| Relevance     | *LHS712EE* | *daixiang*    | *MDC*                |
-| Readability   | *IITR*     | *APTSumm*     | *IKM_Lab*            |
-| Factuality    | *Baseline* | *LHS712EE*    | *MDC*                |
-| **Overall**   | *MDC*      | *Baseline*    | *V-NLP*, *daixiang*  |
-
-***
-**Subtask 2**
-
-| **Criterion** | **1st**                                       | **2nd**     | **3rd**              |
-| :---          |                     :---:                     |    :---:    |        :----:        |
-| Relevance     | *NCUEE-NLP*                                   | *LHS712EE*  | *Pathology Dynamics* |
-| Readability   | *Pathology Dynamics*                          | *NCUEE-NLP* | *LHS712EE*           |
-| Factuality    | *Baseline*                                    | *LHS712EE*  | *Pathology Dynamics* |
-| **Overall**   | *Pathology Dynamics*, *NCUEE-NLP*, *LHS712EE* | -           | -                    |
-
-***
-
-The full table of results for both subtasks is provided [here](https://docs.google.com/spreadsheets/d/1HKM-bOu_SG-vlwdhIbl4WJ9baSRqZWiskoH3rT77Oio/edit?usp=sharing), alongside the calculation of rankings. -->
+The full table of results for is provided [here](https://docs.google.com/spreadsheets/d/1BziwQ9Z7_N4V6qqkSzDFX3NEivG39ucXZGbcubG2xWQ/edit?usp=sharing), alongside the calculation of rankings.
 
 
 ### System Paper Submission
