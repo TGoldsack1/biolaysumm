@@ -102,6 +102,7 @@ A worked example of the described process is provided [here](https://docs.google
 The teams with top three ranking submissions (overall, and for each evaluation aspect), as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
 
 ***
+
 | **Aspect**    | **1st**                  | **2nd**                          | **3rd**                          |
 | :---          |           :----:         |                :---:             |              :----:              |
 | Relevance     | UIUC_BioNLP (*shruthan*) | *Saama Technologies* (*hwanmun*) | Ctyun AI (*mandy*)               |
