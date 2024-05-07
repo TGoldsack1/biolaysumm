@@ -101,12 +101,15 @@ A worked example of the described process is provided [here](https://docs.google
 
 The teams with top three ranking submissions (overall, and for each criteria), as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
 
+***
 | **Criterion** | **1st**                  | **2nd**                          | **3rd**                          |
 | :---          |           :----:         |                :---:             |              :----:              |
 | Relevance     | UIUC_BioNLP (*shruthan*) | *Saama Technologies* (*hwanmun*) | Ctyun AI (*mandy*)               |
 | Readability   | YXZ (*yecheng*)          | NLPSucks (*aryan16*)             | jimmyapples (*etherinmatic*)     |
 | Factuality    | eulerian (*eulerian123*) | MKGS(*kartiknlp*)                | sanika (*sanika*)                | 
 | **Overall**   | UIUC_BioNLP (*shruthan*) | Ctyun AI (*mandy*)               | *Saama Technologies* (*hwanmun*) |
+***
+
 
 The full table of results for is provided [here](https://docs.google.com/spreadsheets/d/1BziwQ9Z7_N4V6qqkSzDFX3NEivG39ucXZGbcubG2xWQ/edit?usp=sharing), alongside the calculation of rankings.
 
