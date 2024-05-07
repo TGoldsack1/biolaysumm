@@ -111,7 +111,7 @@ The teams with top three ranking submissions (overall, and for each criteria), a
 ***
 
 
-The full table of results for is provided [here](https://docs.google.com/spreadsheets/d/1BziwQ9Z7_N4V6qqkSzDFX3NEivG39ucXZGbcubG2xWQ/edit?usp=sharing), alongside the calculation of rankings.
+The full table of results is provided [here](https://docs.google.com/spreadsheets/d/1BziwQ9Z7_N4V6qqkSzDFX3NEivG39ucXZGbcubG2xWQ/edit?usp=sharing), alongside the calculation of rankings.
 
 
 ### System Paper Submission
