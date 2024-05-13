@@ -70,7 +70,7 @@ The test data is composed of 142 PLOS article and 142 eLife articles. **Note: Th
 All task data is provided via the competition CodaBench page under the "Files" tab.
 
 #### Test set reference data
-Now that the competition has concluded, we have made the test data (including reference lay summaries) publically available to enable further research on the task of Lay Summarization. The access via [this repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation).
+Now that the competition has concluded, we have made the test data (including reference lay summaries) publically available to enable further research on the task of Lay Summarization. It can be accessed via [this repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation).
 
 ### Evaluation
 {: #eval}
