@@ -27,7 +27,7 @@ For inspiration, we provide some ideas of promising research directions [below](
 - **March 25th, 2024** - A worked example of the evaluation protocol has been provided [here](https://docs.google.com/spreadsheets/d/1hQB_w16lfIGeggkCwIbdBH9jyLhDnK-R31ZWT0iCkVE/edit?usp=sharing).
 - **April 25th, 2024** - Details of the system paper submission process have been added [below](#sys).
 - **May 7th, 2024** - The system submission deadline has now passed and the final competition [results](#res) have been calculated and added to the site.
-- **May 13th, 2024** - The task reference data has been made publically available via [this repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation).
+- **May 13th, 2024** - The test set reference data has been made publically available via [this repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation).
 
 
 ### Important Dates
@@ -70,7 +70,7 @@ The test data is composed of 142 PLOS article and 142 eLife articles. **Note: Th
 All task data is provided via the competition CodaBench page under the "Files" tab.
 
 #### Test set reference data
-Now that the competition has concluded, we have made the test data (including reference lay summaries) publically available to enable further research in the area of Lay Summarization. The access via [this repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation).
+Now that the competition has concluded, we have made the test data (including reference lay summaries) publically available to enable further research on the task of Lay Summarization. The access via [this repository](https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation).
 
 ### Evaluation
 {: #eval}
