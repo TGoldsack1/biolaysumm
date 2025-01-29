@@ -18,7 +18,7 @@ Biomedical publications contain the latest research on prominent health-related 
 
 The BioLaySumm shared task surrounds the abstractive summarization of biomedical articles, with an emphasis on catering to non-expert audiences through the generation of summaries that are more readable, containing more background information and less technical terminology (i.e., a "lay summary").
 
-This is the 3nd iteration of BioLaySumm, following the success of the [2nd edition](/2024) of the task at BioNLP 2024 [1] which attracted submissions across 53 different teams and the [1st edition](/2023) of the task at BioNLP 2023 [2] which attracted 56 submissions across 20 different teams. In this edition, which is to be hosted by the [BioNLP workshop](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2025, we aim to build on last year's task by introducing a new task: radiology report generation with layman’s terms, extending the shared task to a new domain and multi-modality. Additionally, we update our evaluation protocol, and encourage participants to explore unified approaches to tackle both the text-only task and the multi-modal task, which help further advance the state-of-the-art for Lay Summarization.
+This is the 3nd iteration of BioLaySumm, following the success of the [2nd edition](/2024) of the task at BioNLP 2024 [1] which attracted **200 plus** submissions across **53** different teams and the [1st edition](/2023) of the task at BioNLP 2023 [2] which attracted 56 submissions across 20 different teams. In this edition, which is to be hosted by the [BioNLP workshop](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2025, we aim to build on last year's task by introducing a new task: radiology report generation with layman’s terms, extending the shared task to a new domain and multi-modality. Additionally, we update our evaluation protocol, and encourage participants to explore unified approaches to tackle both the text-only task and the multi-modal task, which help further advance the state-of-the-art for Lay Summarization.
 
 
 <!-- ### Updates
@@ -57,15 +57,18 @@ Note that all deadlines are 23:59:59 AoE (UTC-12).
 
 **Task 1: Lay Summarization**
 
+
+**Subtask 1.1: Plain Lay Summarization**
+
 Given an article's abstract and main text as input, the goal is for participants to train a model (or models) to generate the lay summary. Two separate datasets (derived from biomedical journals, PLOS and eLife) are provided for model training and will be used for evaluation. For the final evaluation, submissions will be ranked on the average performance across both datasets.
 
 Note that submissions can be generated from either 2 separate summarization models (i.e., one trained on each dataset) or a single unified model (i.e., trained on both datasets). Participants will be required to indicate which approach was taken for each submission.
 
-**Task 1 (Constrained Task): Lay Summarisation with External Knowledge**
+**Subtask 1.2: Lay Summarisation with External Knowledge**
 
 Due to differences in the intended audience, the source article may not always contain all the information required by a lay audience (e.g., background information needed for understanding the topic, concept definitions, etc.). This knowledge gap can be filled through the introduction of relevant external information.
 
-This substask is the constrained version of Task 1, and follows an identical setup, except that participants will be required to make use of external knowledge in some capacity. For example, participants could perform manual data augmentation or Retrieval-Augmented Generation (RAG). 
+This substask is the constrained version of Task 1.1, and follows an identical setup, except that participants will be required to make use of external knowledge in some capacity. For example, participants could perform manual data augmentation or Retrieval-Augmented Generation (RAG). 
 Participants will be required to indicate which approach was taken(i.e., online or offline) for each submission.
 
 **Task 2: Radiology Report Generation with Layman’s Terms**
@@ -91,9 +94,9 @@ Two settings are provided, three datasets training and four datasets training. S
 
 **For Task 1: Lay Summarisation**
 
-The data that will be used for this task is based on the PLOS and eLife datasets, published in [3]. Each dataset consists of biomedical research articles ( including their technical abstracts) and their expert-written lay summaries. The lay summaries of each dataset also exhibit numerous notable differences in their characteristics - for more details, please refer to [3].
+The data that will be used for this task is based on the [PLOS](https://journals.plos.org/plosone/s/data-availability) and [eLife](https://elifesciences.org/), published in [3]. Each dataset consists of biomedical research articles (including their technical abstracts) and their expert-written lay summaries. The lay summaries of each dataset also exhibit numerous notable differences in their characteristics - for more details, please refer to [3].
 
-PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation. eLife contains 4,346 instances for training and 241 for validation.
+PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation. eLife contains 4,346 instances for training and 241 for validation. The datasets can be downloaded in [scientific_lay_summarisation](https://huggingface.co/datasets/tomasg25/scientific_lay_summarisation).
 
 <!-- The test data is composed of 142 PLOS article and 142 eLife articles. **Note: These test splits are different to those published in [3] and used for the 1st edition of BioLaySumm [2].** -->
 
@@ -294,7 +297,7 @@ Participants may also want to include last two years' overview paper when referr
 - Sixing Yan, Hong Kong Baptist University
 - Zijian Lei, Hong Kong Baptist University
 - Prof. William CHEUNG, Hong Kong Baptist University
-- Dr. Qianqian Xie, Yele University
+- Dr. Qianqian Xie, Yale University
 - Zheheng Luo, University of Manchester
 - Prof. Sophia Ananiadou, University of Manchester
 - Tomas Goldsack, University of Sheffield
