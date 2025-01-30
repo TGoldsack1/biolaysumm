@@ -88,6 +88,7 @@ Two settings are provided, three datasets training and four datasets training. S
 
 <!-- We further allow and encourage participants to train on the concatenation of Task 1 and task 2 datasets to achieve better results in Subtask 2.2, since this is possible with MLLMs which can take in image-only, text-only inputs, or both. We believe training on both can provide good transferability of knowledge across both setups. -->
 
+**Note: We're excited to have you join us! You can choose to take on one subtask or multiple — it's entirely up to you!**
 
 ### Datasets
 {: #data}
