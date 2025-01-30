@@ -121,7 +121,7 @@ An automatic evaluation will be conducted automatically upon submission of test 
 
 **Automatic Metrics**
 
-For Task 1, we will evaluate generated summaries across four aspects: Relevance, Readability, and Factuality, and LLM-based metrics. Each evaluation aspect will be composed of one or more automatic metrics:
+For Task 1, we will evaluate generated summaries across four aspects: Relevance, Readability, and Factuality[8][9], and LLM-based metrics. Each evaluation aspect will be composed of one or more automatic metrics:
 
 - **Relevance** - ROUGE (1, 2, and L), BLEU, meteor, BERTScore, semantics scores (e.g., based on GritLM)
 - **Readability** - Flesch-Kincaid Grade Level (FKGL) and Dale-Chall Readability Score (DCRS), Coleman-Liau Index (CLI), and LENS
@@ -327,3 +327,7 @@ In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language 
 [6] Mong Yuan Sim, Xiang Dai, Maciej Rybinski, and Sarvnaz Karimi. 2023. [CSIRO Data61 Team at BioLaySumm Task 1: Lay Summarisation of Biomedical Research Articles Using Generative Models.](https://aclanthology.org/2023.bionlp-1.68/) In *The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks, pages 629–635, Toronto, Canada. Association for Computational Linguistics.*
 
 [7] Zheheng Luo, Qianqian Xie, and Sophia Ananiadou. 2022. [Readability Controllable Biomedical Document Summarization.](https://aclanthology.org/2022.findings-emnlp.343/) In *Findings of the Association for Computational Linguistics: EMNLP 2022, pages 4667–4680, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.*
+
+[8]Zheheng Luo, Qianqian Xie, Sophia Ananiadou, [Factual consistency evaluation of summarization in the Era of large language models.](https://www.sciencedirect.com/science/article/pii/S0957417424013228) Expert Systems with Applications,Volume 254, 2024, 124456,https://doi.org/10.1016/j.eswa.2024.124456.
+ 
+[9]Jennifer A. Bishop, Sophia Ananiadou, and Qianqian Xie. 2024. [LongDocFACTScore: Evaluating the Factuality of Long Document Abstractive Summarisation.](https://aclanthology.org/2024.lrec-main.941.pdf) In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 10777–10789, Torino, Italia. ELRA and ICCL.*
