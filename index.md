@@ -6,7 +6,7 @@ title: BioLaySumm
 feature_image: "https://i.postimg.cc/mD23gyKD/DALL-E-2025-01-10-12-32-19-Extend-the-background-of-the-image3.jpg"
 feature_text: |
   # BioLaySumm 2025
-  ##### Shared Task: Lay Summarization of Biomedical Research Articles and Radiology Reports @ BioNLPWorkshop, ACL 2025
+  ##### Shared Task: Lay Summarization of Biomedical Research Articles and Radiology Reports @ BioNLP Workshop, ACL 2025
 ---
 
 ### Introduction
