@@ -97,14 +97,14 @@ Two settings are provided, three datasets training and four datasets training. S
 
 The data that will be used for this task is based on the [PLOS](https://journals.plos.org/plosone/s/data-availability) and [eLife](https://elifesciences.org/), published in [3]. Each dataset consists of biomedical research articles (including their technical abstracts) and their expert-written lay summaries. The lay summaries of each dataset also exhibit numerous notable differences in their characteristics - for more details, please refer to [3].
 
-PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation. eLife contains 4,346 instances for training and 241 for validation. The datasets can be downloaded in [scientific_lay_summarisation](https://huggingface.co/datasets/tomasg25/scientific_lay_summarisation).
+PLOS is the larger of the two datasets, containing 24,773 instances for training and 1,376 for validation. eLife contains 4,346 instances for training and 241 for validation. The datasets can be downloaded in [BioLaySumm2025-PLOS](https://huggingface.co/datasets/BioLaySumm/BioLaySumm2025-PLOS) and [BioLaySumm2025-eLife](https://huggingface.co/datasets/BioLaySumm/BioLaySumm2025-eLife).
 
 <!-- The test data is composed of 142 PLOS article and 142 eLife articles. **Note: These test splits are different to those published in [3] and used for the 1st edition of BioLaySumm [2].** -->
 
 
 **For Task 2: Radiology Report Generation with Layman’s Terms**
 
-Four layman’s terms datasets ([PadChest](https://bimcv.cipf.es/bimcv-projects/padchest/), [BIMCV-COVID19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19), [Open-i](https://openi.nlm.nih.gov/faq#collection) and [MIMIC-CXR](https://physionet.org/content/mimiciii/1.4/)) will be provided for model training and used for evaluation. We will mainly base on non-MIMIC’s images because participants can easily access. We allow the use of MIMIC-XCR data to provide better results, and submissions that are trained on three datasets and four datasets will be evaluated separately. 
+Four layman’s terms datasets ([PadChest](https://bimcv.cipf.es/bimcv-projects/padchest/), [BIMCV-COVID19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19), [Open-i](https://openi.nlm.nih.gov/faq#collection) and [MIMIC-CXR](https://physionet.org/content/mimiciii/1.4/)) will be provided for model training and used for evaluation. We will mainly base on non-MIMIC’s images because participants can easily access. We allow the use of MIMIC-XCR data to provide better results, and submissions that are trained on three datasets and four datasets will be evaluated separately. The dataset can be downloaded in [BioLaySumm2025-LaymanRRG-opensource-track](https://huggingface.co/datasets/BioLaySumm/BioLaySumm2025-LaymanRRG-opensource-track).
 
 
 
