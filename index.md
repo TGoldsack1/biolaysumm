@@ -33,8 +33,8 @@ This is the 3nd iteration of BioLaySumm, following the success of the [2nd editi
 ### Important Dates
 {: #dates}
 
-- **First call for participation:**  January 31st, 2025
-- **Releasing of task data (training, validation, and test):** February 15th, 2025
+- **First call for participation:**  February 21st, 2025
+- **Releasing of task data (training, validation, and test):** February 21st, 2025
 - **System submission deadline:** May 6th, 2025
 - **System papers due date:** May 15th, 2025
 - **Notification of acceptance:** June 17th, 2025
