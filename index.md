@@ -43,7 +43,8 @@ This is the 3nd iteration of BioLaySumm, following the success of the [2nd editi
 
 Note that all deadlines are 23:59:59 AoE (UTC-12).
 
-<!-- Join our [Google Group](https://groups.google.com/g/biolaysumm2025) for updates and discussion on the shared task! If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm2025) or [email](mailto:tgoldsack1@sheffield.ac.uk) us. -->
+Join our Google Group -- [Biolaysumm2025](https://groups.google.com/g/laysumm) for updates and discussion on the shared task! 
+<!-- If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm2025) or [email](mailto:tgoldsack1@sheffield.ac.uk) us. -->
 
 <!-- ### Registration and Submission -->
 <!-- {: #reg} -->
