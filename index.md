@@ -122,18 +122,19 @@ An automatic evaluation will be conducted automatically upon submission of test 
 
 **Automatic Metrics**
 
-For Task 1, we will evaluate generated summaries across four aspects: Relevance, Readability, and Factuality[8][9], and LLM-based metrics. Each evaluation aspect will be composed of one or more automatic metrics:
+**Automatic Metrics**
 
-- **Relevance** - ROUGE (1, 2, and L), BLEU, meteor, BERTScore, semantics scores (e.g., based on GritLM)
+For Task 1, we will evaluate generated summaries across three aspects: Relevance, Readability, and Factuality. Each evaluation aspect will be composed of one or more automatic metrics:
+
+- **Relevance** - ROUGE (1, 2, and L), BLEU, METEOR, BERTScore
 - **Readability** - Flesch-Kincaid Grade Level (FKGL) and Dale-Chall Readability Score (DCRS), Coleman-Liau Index (CLI), and LENS
 - **Factuality** - AlignScore, SummaC
-- **LLMs-based metrics** - DeepSeek
 
-For Task 2, we will evaluate generated summaries across three aspects: Relevance, Clinical, and LLM-based metrics. Each evaluation aspect will be composed of one or more automatic metrics:
+For Task 2, we will evaluate generated summaries across three aspects: Relevance,  Readability, Clinical. Each evaluation aspect will be composed of one or more automatic metrics:
 
-- **Relevance** - ROUGE (1, 2, and L), BLEU, meteor, BERTScore, semantics scores (e.g., based on GritLM)
-- **Clinical metrics** - CheXbert-F1, RadGraph-F1, RadCliQ
-- **LLMs-based metrics** - DeepSeek
+- **Relevance** - ROUGE (1, 2, and L), BLEU, METEOR, BERTScore, semantics scores
+- - **Readability** - Flesch-Kincaid Grade Level (FKGL) and Dale-Chall Readability Score (DCRS), Coleman-Liau Index (CLI), and LENS
+- **Clinical metrics** - CheXbert-F1, RadGraph-F1
 
 
 <!-- The scores presented for each metric will be the average of those calculated independently for every subtask. The aim is to maximize the scores for Relevance metrics, Factuality metrics, Clinical metrics, LLMs-based metrics and the LENS (Readability) metric and minimize scores for all other Readability metrics. -->
