@@ -124,7 +124,7 @@ An automatic evaluation will be conducted automatically upon submission of test 
 
 **Automatic Metrics**
 
-For Task 1, we will evaluate generated summaries across three aspects: Relevance, Readability, and Factuality. Each evaluation aspect will be composed of one or more automatic metrics:
+evaluation aspect will be composed of one or more automatic metrics:
 
 - **Relevance** - ROUGE (1, 2, and L), BLEU, METEOR, BERTScore
 - **Readability** - Flesch-Kincaid Grade Level (FKGL) and Dale-Chall Readability Score (DCRS), Coleman-Liau Index (CLI), and LENS
@@ -133,7 +133,7 @@ For Task 1, we will evaluate generated summaries across three aspects: Relevance
 For Task 2, we will evaluate generated summaries across three aspects: Relevance,  Readability, Clinical. Each evaluation aspect will be composed of one or more automatic metrics:
 
 - **Relevance** - ROUGE (1, 2, and L), BLEU, METEOR, BERTScore, semantics scores
-- - **Readability** - Flesch-Kincaid Grade Level (FKGL) and Dale-Chall Readability Score (DCRS), Coleman-Liau Index (CLI), and LENS
+- **Readability** - Flesch-Kincaid Grade Level (FKGL) and Dale-Chall Readability Score (DCRS), Coleman-Liau Index (CLI)
 - **Clinical metrics** - CheXbert-F1, RadGraph-F1
 
 
