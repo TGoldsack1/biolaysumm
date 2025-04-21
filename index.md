@@ -35,10 +35,10 @@ This is the 3nd iteration of BioLaySumm, following the success of the [2nd editi
 
 - **First call for participation:**  February 21st, 2025
 - **Releasing of task data (training, validation, and test):** February 21st, 2025
-- **System submission deadline:** May 6th, 2025
-- **System papers due date:** May 15th, 2025
-- **Notification of acceptance:** June 17th, 2025
-- **Camera-ready system papers due:** July 1st, 2025
+- **System submission deadline:** May 15th, 2025
+- **System papers due date:** May 22th, 2025
+- **Notification of acceptance:** May 26th, 2025
+- **Camera-ready system papers due:** May 30th, 2025
 - **BioNLP Workshop Date:** July 31 - August 1, 2025
 
 Note that all deadlines are 23:59:59 AoE (UTC-12).
@@ -46,10 +46,10 @@ Note that all deadlines are 23:59:59 AoE (UTC-12).
 Join our Google Group -- [Biolaysumm2025](https://groups.google.com/g/laysumm) for updates and discussion on the shared task! 
 <!-- If you have any questions, please ask in the [Google Group](https://groups.google.com/g/biolaysumm2025) or [email](mailto:tgoldsack1@sheffield.ac.uk) us. -->
 
-<!-- ### Registration and Submission -->
-<!-- {: #reg} -->
+### Registration and Submission
+{: #reg} 
 
-<!-- **CodaBench page**: [https://CodaBench.lisn.upsaclay.fr/competitions/12125](https://CodaBench.lisn.upsaclay.fr/competitions/12125) -->
+**CodaBench page**: [https://www.codabench.org/competitions/7351](https://www.codabench.org/competitions/7351) 
 <!-- **CodaBench page**: [https://www.codabench.org/competitions/1920/](https://www.codabench.org/competitions/1920/) -->
 
 
