@@ -105,7 +105,7 @@ PLOS is the larger of the two datasets, containing 24,773 instances for training
 
 **For Task 2: Radiology Report Generation with Layman’s Terms**
 
-Four layman’s terms datasets ([PadChest](https://bimcv.cipf.es/bimcv-projects/padchest/), [BIMCV-COVID19](https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/), [Open-i](https://openi.nlm.nih.gov/faq#collection) and [MIMIC-CXR]([https://physionet.org/content/mimiciii/1.4/)](https://physionet.org/content/mimic-cxr-jpg/2.1.0/) will be provided for model training and used for evaluation. We will mainly base on non-MIMIC’s images because participants can easily access. We allow the use of MIMIC-CXR data to provide better results, and submissions that are trained on three datasets and four datasets will be evaluated separately. The dataset can be downloaded in [BioLaySumm2025-LaymanRRG-opensource-track](https://huggingface.co/datasets/BioLaySumm/BioLaySumm2025-LaymanRRG-opensource-track).
+Four layman’s terms datasets ([PadChest](https://bimcv.cipf.es/bimcv-projects/padchest/), [BIMCV-COVID19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19), [Open-i](https://openi.nlm.nih.gov/faq#collection) and [MIMIC-CXR]([https://physionet.org/content/mimiciii/1.4/)](https://physionet.org/content/mimic-cxr-jpg/2.1.0/) will be provided for model training and used for evaluation. We will mainly base on non-MIMIC’s images because participants can easily access. We allow the use of MIMIC-CXR data to provide better results, and submissions that are trained on three datasets and four datasets will be evaluated separately. The dataset can be downloaded in [BioLaySumm2025-LaymanRRG-opensource-track](https://huggingface.co/datasets/BioLaySumm/BioLaySumm2025-LaymanRRG-opensource-track).
 
 
 
