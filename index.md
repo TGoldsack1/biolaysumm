@@ -35,8 +35,8 @@ This is the 3nd iteration of BioLaySumm, following the success of the [2nd editi
 
 - **First call for participation:**  February 21st, 2025
 - **Releasing of task data (training, validation, and test):** February 21st, 2025
-- **System submission deadline:** May 15th, 2025
-- **System papers due date:** May 22th, 2025
+- **System submission deadline:** May 16th, 2025
+- **System papers due date:** May 23th, 2025
 - **Notification of acceptance:** May 26th, 2025
 - **Camera-ready system papers due:** May 30th, 2025
 - **BioNLP Workshop Date:** July 31 - August 1, 2025
