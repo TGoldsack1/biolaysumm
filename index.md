@@ -264,18 +264,9 @@ Participants may also want to include last two years' overview paper when referr
 }
 ```
 
-- *Task datasets* - the following citation should be used when referring to the task datasets:
+- *Task datasets* -
 
-
-```
-@article{zhao2024x,
-  title={X-ray Made Simple: Radiology Report Generation and Evaluation with Layman's Terms},
-  author={Zhao, Kun and Xiao, Chenghao and Tang, Chen and Yang, Bohao and Ye, Kai and Moubayed, Noura Al and Zhan, Liang and Lin, Chenghua},
-  journal={arXiv preprint arXiv:2406.17911},
-  year={2024}
-}
-```
-
+For Task1, the following citation should be used when referring to the task datasets:
 ```
 @inproceedings{goldsack-etal-2022-making,
     title = "Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature",
@@ -290,6 +281,36 @@ Participants may also want to include last two years' overview paper when referr
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.emnlp-main.724",
     pages = "10589--10604",
+}
+```
+```
+@inproceedings{luo-etal-2022-readability,
+    title = "Readability Controllable Biomedical Document Summarization",
+    author = "Luo, Zheheng  and
+      Xie, Qianqian  and
+      Ananiadou, Sophia",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.343/",
+    doi = "10.18653/v1/2022.findings-emnlp.343",
+    pages = "4667--4680"
+}
+
+```
+
+For Task 2, the following citation should be used when referring to the task datasets:
+```
+@article{zhao2024x,
+  title={X-ray Made Simple: Radiology Report Generation and Evaluation with Layman's Terms},
+  author={Zhao, Kun and Xiao, Chenghao and Tang, Chen and Yang, Bohao and Ye, Kai and Moubayed, Noura Al and Zhan, Liang and Lin, Chenghua},
+  journal={arXiv preprint arXiv:2406.17911},
+  year={2024}
 }
 ```
 
