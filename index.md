@@ -192,7 +192,7 @@ All participating teams are invited to submit system papers that, pending review
 
 **Format** - System papers should follow the ACL 2025 short paper format (i.e., 4 pages, with unlimited pages for appendices and references), as described on the [call for papers](https://2025.aclweb.org/calls/main_conference_papers/#paper-submission-details). The Overleaf template for this can be found [here](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj).
 
-Paper titles should adopt the format: "{TEAM_NAME} at BioLaySumm:" followed by a descriptive title of the proposed approach. Papers should be submitted in non-anonymised format (i.e., with author names included).
+Paper titles should adopt the format: "{TEAM_NAME} at BioLaySumm2025:" followed by a descriptive title of the proposed approach. Papers should be submitted in non-anonymised format (i.e., with author names included).
 
 **References** - We ask participants to ensure the following citations are included in their system papers:
 
