@@ -122,8 +122,6 @@ An automatic evaluation will be conducted automatically upon submission of test 
 
 **Automatic Metrics**
 
-**Automatic Metrics**
-
 evaluation aspect will be composed of one or more automatic metrics:
 
 - **Relevance** - ROUGE (1, 2, and L), BLEU, METEOR, BERTScore
@@ -168,29 +166,17 @@ For multimodal task(Subtask 2.2), we will use finetuned LlaVA as the finetuned b
 {: #res}
 
 The teams with top three ranking submissions of every subtask, as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
-<!-- 
-***
-
-| **Aspect**    | **1st**                  | **2nd**                          | **3rd**                          |
-| :---          |           :----:         |                :---:             |              :----:              |
-| Relevance     | UIUC_BioNLP (*shruthan*) | *Saama Technologies* (*hwanmun*) | Ctyun AI (*mandy*)               |
-| Readability   | YXZ (*yecheng*)          | NLPSucks (*aryan16*)             | jimmyapples (*etherinmatic*)     |
-| Factuality    | eulerian (*eulerian123*) | MKGS(*kartiknlp*)                | sanika (*sanika*)                | 
-| **Overall**   | UIUC_BioNLP (*shruthan*) | Ctyun AI (*mandy*)               | *Saama Technologies* (*hwanmun*) |
-
-***
---!>
-***
-
-| **Rank**  | **Subtask 1.1**          | **Subtask 1.2**        | **Subtask 2.1_open**      | **Subtask 2.1_close**  |
-| :---      |           :----:         |             :---:      |              :----:       | :----:                 |
-| 1st       | MetninOzU(*egecanevgin*) | 5cNLP  (*callum-chan*) | aehrc  (*anicolson1*)     | aehrc  (*anicolson1*)  |
-| 2nd       | SUWMIT (*jcols*)         | CUTN_Bio (*saranyar*)  | KHU_LDI (*daniazie*)      | 5cNLP  (*callum-chan*) |
-| 3rd       | TLPIQ (*hopems7*)        | Aard (*aaradhyagupta*) |                           | CUTN_Bio (*saranyar*)  |
-
 
 ***
 
+| **Rank**  | **Subtask 1.1**          | **Subtask 1.2**            | **Subtask 2.1_open**          | **Subtask 2.1_close**      |
+| :---      |           :----:         |             :---:          |              :----:           | :----:                     |
+| 1st       | MetninOzU(*egecanevgin*) | 5cNLP  (*callum-chan*)     | aehrc  (*anicolson1*)         | aehrc  (*anicolson1*)      |
+| 2nd       | SUWMIT (*jcols*)         | CUTN_Bio (*saranyar*)      | KHU_LDI (*daniazie*)          | 5cNLP  (*callum-chan*)     |
+| 3rd       | TLPIQ (*hopems7*)        | Aard (*aaradhyagupta*)     |                               | CUTN_Bio (*saranyar*)      |
+
+
+***
 
 The full table of results is provided [here](https://docs.google.com/spreadsheets/d/1dsf13bkx-Tlf4icjVKLRmnJyZWoLwiTI0v7jHG-zCZw/edit?gid=559960375#gid=559960375), alongside the calculation of rankings. 
 
