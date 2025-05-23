@@ -198,10 +198,19 @@ Paper titles should adopt the format: "{TEAM_NAME} at BioLaySumm:" followed by a
 
 - *BioLaySumm 2025 Overview Paper* - the following citation should be used when referring to the shared task in general (note, this is a temporary example that may be subject to change in the future):
 ```
-@inproceedings{goldsack-etal-2025-biolaysumm,
-    title = "Overview of the BioLaySumm 2025 Shared Task on the Lay Summarization of Biomedical Research Articles",
-    author = "Goldsack, Tomas and Lin, Chenghua",
-    booktitle = "The 24rd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks",
+@inproceedings{xiao-etal-2025-biolaysumm,
+    title = "Overview of the BioLaySumm 2025 Shared Task on Lay Summarization of Biomedical Research Articles and Radiology Reports",
+    author = "Xiao, Chenghao  and
+      Zhao, Kun  and
+      Wang, Xiao  and
+      Wu, Siwei  and
+      Yan, Sixing  and
+      Ananiadou, Sophia  and
+      Al Moubayed, Noura and
+      Zhan, Liang and
+      Cheung, William and
+      Lin, Chenghua",
+    booktitle = "The 24nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks",
     month = aug,
     year = "2025",
     address = "Vienna, Austria",
