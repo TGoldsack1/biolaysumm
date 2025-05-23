@@ -266,7 +266,7 @@ Participants may also want to include last two years' overview paper when referr
 
 - *Task datasets* 
 
-For Task1, the following citation should be used when referring to the task datasets:
+For Task1, the following two citations should be used when referring to the task datasets:
 ```
 @inproceedings{goldsack-etal-2022-making,
     title = "Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature",
