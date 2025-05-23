@@ -313,9 +313,9 @@ For Task 2, the following citation should be used when referring to the task dat
   year={2024}
 }
 ```
-
+<!--
 **Reviewer Nomination** - Similar to other shared task campaigns (e.g. SemEval), we are requiring that at least one author per paper also acts as a reviewer for our shared task papers. Please nominate the reviewer from your submission using [this form](https://forms.gle/nbwTKeaVZvVSC9MU8). If you do not nominate a reviewer, the corresponding author(s) will be automatically selected.
-
+-->
 ### Organizers
 {: #us}
 
