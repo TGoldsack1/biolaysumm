@@ -186,7 +186,7 @@ The full table of results is provided [here](https://docs.google.com/spreadsheet
 
 All participating teams are invited to submit system papers that, pending review, will be published as part of the BioNLP Workshop proceedings.
 
-**Submission** - Participants can submit a system paper at following SoftConf link (track "ST_2") anytime before the deadline on 20/05/2025 (23:59:59, Anywhere on Earth timezone):
+**Submission** - Participants can submit a system paper at following SoftConf link (track "ST_2") anytime before the deadline on 23/05/2025 (23:59:59, Anywhere on Earth timezone):
 [https://softconf.com/acl2025/BioNLP2025-ST/](https://softconf.com/acl2025/BioNLP2025-ST/)
 
 
@@ -264,7 +264,7 @@ Participants may also want to include last two years' overview paper when referr
 }
 ```
 
-- *Task datasets* -
+- *Task datasets* 
 
 For Task1, the following citation should be used when referring to the task datasets:
 ```
