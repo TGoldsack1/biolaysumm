@@ -164,11 +164,11 @@ For multimodal task(Subtask 2.2), we will use finetuned LlaVA as the finetuned b
 - **LLMs for Data Augmentation** - In the first edition of BioLaySumm [2], we found that the use of large language models (LLMs) proved benefitial for summary generation [5], but also for data augmentation [6]. We encourage participants to explore this direction further, and to consider potential new ways to use use LLMs for both summary generation and data augmentation.
 
 
-<!-- ### Results
+### Results
 {: #res}
 
-The teams with top three ranking submissions (overall, and for each evaluation aspect), as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
-
+The teams with top three ranking submissions of every subtask, as determined by the evaluation proceedure described in the [evaluation section](#eval), are given below:
+<!-- 
 ***
 
 | **Aspect**    | **1st**                  | **2nd**                          | **3rd**                          |
@@ -179,9 +179,20 @@ The teams with top three ranking submissions (overall, and for each evaluation a
 | **Overall**   | UIUC_BioNLP (*shruthan*) | Ctyun AI (*mandy*)               | *Saama Technologies* (*hwanmun*) |
 
 ***
+--!>
+***
+
+| **Rank**  | **Subtask 1.1**          | **Subtask 1.2**        | **Subtask 2.1_open**      | **Subtask 2.1_close**  |
+| :---      |           :----:         |             :---:      |              :----:       | :----:                 |
+| 1st       | MetninOzU(*egecanevgin*) | 5cNLP  (*callum-chan*) | aehrc  (*anicolson1*)     | aehrc  (*anicolson1*)  |
+| 2nd       | SUWMIT (*jcols*)         | CUTN_Bio (*saranyar*)  | KHU_LDI (*daniazie*)      | 5cNLP  (*callum-chan*) |
+| 3rd       | TLPIQ (*hopems7*)        | Aard (*aaradhyagupta*) |                           | CUTN_Bio (*saranyar*)  |
 
 
-The full table of results is provided [here](https://docs.google.com/spreadsheets/d/1BziwQ9Z7_N4V6qqkSzDFX3NEivG39ucXZGbcubG2xWQ/edit?usp=sharing), alongside the calculation of rankings. -->
+***
+
+
+The full table of results is provided [here](https://docs.google.com/spreadsheets/d/1BziwQ9Z7_N4V6qqkSzDFX3NEivG39ucXZGbcubG2xWQ/edit?usp=sharing), alongside the calculation of rankings. 
 
 
 ### System Paper Submission
