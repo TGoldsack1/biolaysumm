@@ -192,7 +192,7 @@ The teams with top three ranking submissions of every subtask, as determined by 
 ***
 
 
-The full table of results is provided [here](https://docs.google.com/spreadsheets/d/1BziwQ9Z7_N4V6qqkSzDFX3NEivG39ucXZGbcubG2xWQ/edit?usp=sharing), alongside the calculation of rankings. 
+The full table of results is provided [here](https://docs.google.com/spreadsheets/d/1dsf13bkx-Tlf4icjVKLRmnJyZWoLwiTI0v7jHG-zCZw/edit?gid=559960375#gid=559960375), alongside the calculation of rankings. 
 
 
 ### System Paper Submission
