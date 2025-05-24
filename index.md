@@ -171,14 +171,14 @@ The teams with top three ranking submissions of every subtask, as determined by 
 
 | **Rank**  | **Subtask 1.1**          | **Subtask 1.2**            | **Subtask 2.1_open**          | **Subtask 2.1_close**      |
 | :---      |           :----:         |             :---:          |              :----:           | :----:                     |
-| 1st       | MetninOzU(*egecanevgin*) | 5cNLP  (*callum-chan*)     | aehrc  (*anicolson1*)         | aehrc  (*anicolson1*)      |
-| 2nd       | SUWMIT (*jcols*)         | CUTN_Bio (*saranyar*)      | KHU_LDI (*daniazie*)          | 5cNLP  (*callum-chan*)     |
-| 3rd       | 5cNLP  (*callum-chan*)   | Aard (*aaradhyagupta*)     |                               | CUTN_Bio (*saranyar*)      |
+| 1st       | SUWMIT (*jcols*)         | Aard (*aaradhyagupta*)     | aehrc  (*anicolson1*)         | aehrc  (*anicolson1*)      |
+| 2nd       |BDA-UC3M (*iramzi_uc3m*)  | CUTN_Bio (*saranyar*)      | KHU_LDI (*daniazie*)          | 5cNLP  (*callum-chan*)     |
+| 3rd       | MIRAGES (*benjaminpwh*)  |  5cNLP  (*callum-chan*)    |                               | CUTN_Bio (*saranyar*)      |
 
 
 ***
 
-The full table of results is provided [here](https://docs.google.com/spreadsheets/d/1dsf13bkx-Tlf4icjVKLRmnJyZWoLwiTI0v7jHG-zCZw/edit?gid=559960375#gid=559960375), alongside the calculation of rankings. 
+The full table of results is provided [here](https://docs.google.com/spreadsheets/d/1R9efDqrbpetFI7VnGwENcX-gmDJQhvdolyNUkHaMDro/edit?gid=1416758514#gid=1416758514), alongside the calculation of rankings. 
 
 
 ### System Paper Submission
