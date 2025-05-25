@@ -173,7 +173,7 @@ The teams with top three ranking submissions of every subtask, as determined by 
 | :---      |           :----:         |             :---:          |              :----:           | :----:                     |
 | 1st       | SUWMIT (*jcols*)         | Aard (*aaradhyagupta*)     | aehrc  (*anicolson1*)         | aehrc  (*anicolson1*)      |
 | 2nd       |BDA-UC3M (*iramzi_uc3m*)  | CUTN_Bio (*saranyar*)      | KHU_LDI (*daniazie*)          | 5cNLP  (*callum-chan*)     |
-| 3rd       | MIRAGES (*benjaminpwh*)  |  5cNLP  (*callum-chan*)    |                               | CUTN_Bio (*saranyar*)      |
+| 3rd       | MetninOzU(*egecanevgin*) |  5cNLP  (*callum-chan*)    |                               | CUTN_Bio (*saranyar*)      |
 
 
 ***
