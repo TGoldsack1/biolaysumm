@@ -210,7 +210,7 @@ Paper titles should adopt the format: "{TEAM_NAME} at BioLaySumm2025:" followed 
       Zhan, Liang and
       Cheung, William and
       Lin, Chenghua",
-    booktitle = "The 24nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks",
+    booktitle = "The 24th Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks",
     month = aug,
     year = "2025",
     address = "Vienna, Austria",
