@@ -205,6 +205,7 @@ Paper titles should adopt the format: "{TEAM_NAME} at BioLaySumm2025:" followed 
       Wang, Xiao  and
       Wu, Siwei  and
       Yan, Sixing  and
+      Goldsack, Tomas and
       Ananiadou, Sophia  and
       Al Moubayed, Noura and
       Zhan, Liang and
