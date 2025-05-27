@@ -307,11 +307,14 @@ For Task1, the following two citations should be used when referring to the task
 
 For Task 2, the following citation should be used when referring to the task datasets:
 ```
-@article{zhao2024x,
-  title={X-ray Made Simple: Radiology Report Generation and Evaluation with Layman's Terms},
-  author={Zhao, Kun and Xiao, Chenghao and Tang, Chen and Yang, Bohao and Ye, Kai and Moubayed, Noura Al and Zhan, Liang and Lin, Chenghua},
-  journal={arXiv preprint arXiv:2406.17911},
-  year={2024}
+@misc{zhao2025xraysimplelayradiology,
+      title={X-ray Made Simple: Lay Radiology Report Generation and Robust Evaluation},
+      author={Kun Zhao and Chenghao Xiao and Sixing Yan and William K. Cheung and Kai Ye and Noura Al Moubayed and Liang Zhan and Chenghua Lin},
+      year={2025},
+      eprint={2406.17911},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2406.17911},
 }
 ```
 <!--
